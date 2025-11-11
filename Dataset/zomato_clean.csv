@@ -1,0 +1,801 @@
+name,address,online_order,book_table,location,restaurant_type,cuisines,category,city,votes,rating,cost_for_two
+360 Atoms Restaurant And Cafe,"47, 48 &49, 3Rd Floor, 21st Main Road, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Cafe,"Cafe, Chinese, Continental, Italian",Dine-out,Banashankari,13,3.1,400.0
+New Prashanth Hotel,"215, 2nd Main, Thygarajanagar, Basavanagudi, Bangalore",No,No,Basavanagudi,Casual Dining,"South Indian, Biryani, Chinese, North Indian",Dine-out,Banashankari,34,2.9,750.0
+Meat And Eat,"241, 100 Feet Road, Opposite Eshwari Theater, 3rd stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"Fast Food, Burger",Delivery,Banashankari,10,3.1,500.0
+Ovenstory Pizza,"101, Ground Floor, Manjunatha Complex, 22nd Main Road, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Delivery,Pizza,Delivery,Banashankari,172,3.9,750.0
+1947,"296, Ram Towers, 100 Feet Ring Road, Banashankari, Bangalore",No,Yes,Banashankari,Casual Dining,"North Indian, Chinese",Delivery,Banashankari,808,4.0,850.0
+Redberrys,"30, Surveyor Street, DVG Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Cafe,"Cafe, Italian",Desserts,Banashankari,219,4.0,600.0
+New Rajadhani Spicy,"16, Lalitha Enterprises, Kadirenahalli Main, Bendre Nagar, Kumaraswamy Layout, Bangalore",Yes,No,Kumaraswamy Layout,Casual Dining,North Indian,Delivery,Banashankari,67,3.7,700.0
+Srikrishna Bhavan,"Next To BMTC Bus Stand, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"South Indian, North Indian, Chinese",Dine-out,Banashankari,42,3.8,300.0
+@Italy,"1766, 14th Main, 1st Stage, Kumaraswamy Layout, Bangalore",Yes,No,Kumaraswamy Layout,Casual Dining,Italian,Delivery,Banashankari,305,4.1,700.0
+Masale Daan,"Fresh Menu, Stavyah Arcade #10, 3rd floor 9th Main, Opp to Daily Bread, Yarab Nagar Main Rd, Banashankari Stage II, Bengaluru- 560070.",Yes,No,Banashankari,Delivery,North Indian,Delivery,Banashankari,4,3.1,350.0
+Mystique Palate,"615/1, 10th C Main,32nd Cross Road ,Janardhan Mansion, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Chinese, Fast Food",Delivery,Banashankari,337,4.1,300.0
+Kabab Magic,"31, Opposite Vijaya College, RV Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"North Indian, Kebab, Chinese, Fast Food",Delivery,Banashankari,1720,4.1,400.0
+Srinivasa Brahmins Bakery,"125, 1st Floor, Abalashram Building, DV Gundappa Road, Basavanagudi, Bangalore",No,No,Basavanagudi,"Bakery, Quick Bites","Bakery, Street Food",Desserts,Banashankari,16,3.6,150.0
+Roti Ghar,"17, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Casual Dining,"North Indian, Chinese, South Indian",Delivery,Banashankari,750,3.9,500.0
+Hotel Pork Paradise,"D/25, 2nd Main, 260 Mysore Road Tollgate, Opposite Gopalan Mall, Mysore Road, Bangalore",Yes,No,Mysore Road,Quick Bites,South Indian,Dine-out,Banashankari,21,3.7,300.0
+Food Springs,"559, 32nd Cross, 10th A Main, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"South Indian, Chinese",Delivery,Banashankari,232,4.0,400.0
+Subway,"186, 16th Main, 24th Cross, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"Salad, Fast Food",Delivery,Banashankari,136,3.7,600.0
+LSD Cafe,"100 Feet Road, 3rd Stage, Banashankari, Bangalore",No,No,Banashankari,Delivery,"Chinese, Continental, Italian, North Indian",Delivery,Banashankari,84,2.9,700.0
+Shree Mahalakshmi Sweets,"344, 50 Feet Road, Dasarhalli, Srinagar, Banashankari, Bangalore",Yes,No,Banashankari,Sweet Shop,"Mithai, Street Food",Desserts,Banashankari,8,3.2,100.0
+Kadalu Sea Food Restaurant,"36, 2nd Main, RPC Layout, Vijay Nagar, Bangalore",Yes,No,Vijay Nagar,Fine Dining,"Seafood, North Indian, Chinese, Andhra, Biryani, Kebab",Delivery,Banashankari,153,3.8,500.0
+Roving Feast,"78, 21st Main Road, Near BDA Complex, 2nd Stage, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,"Italian, Continental, Fast Food, Chinese, Momos",Delivery,Banashankari,1047,4.0,450.0
+Maruthi Davangere Benne Dosa,"556/A, Water Tank Road, 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,South Indian,Delivery,Banashankari,17,4.0,150.0
+Floured-Baked With Love,"415, 1st C Cross, Banashankari 3rd Stage, 5th Block, Bangalore, Banashankari, Bangalore",No,No,Banashankari,"Takeaway, Delivery",Bakery,Delivery,Banashankari,45,3.8,400.0
+Daal Roti,"139, Behind Police Station, 72nd Cross, Kumaraswamy Layout, Bangalore",Yes,No,Kumaraswamy Layout,Quick Bites,"North Indian, Chinese",Delivery,Banashankari,35,2.9,250.0
+Vaishali Deluxe,"512, 2nd Cross, 3rd Stage, Banashankari, Bangalore",No,No,Banashankari,Casual Dining,"North Indian, Chinese",Delivery,Banashankari,42,3.8,700.0
+Bhattara Bhojana,"855/A, 5th A Cross,10th Main Road, Srinivasanagar, Towords Maruthi Circle, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,South Indian,Dine-out,Banashankari,66,3.6,150.0
+New Mangalore Lunch Home,"89, Near PES College, 22nd Main Road, Girinagar, 1st Stage, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,"Mangalorean, South Indian, North Indian",Dine-out,Banashankari,7,3.3,200.0
+Ibaco,"Shop 58, 50 Feet Road, Opposite to Kathriguppe Water Tank, 1st Block, 3rd Stage, 1st Block, Banashankari, Bangalore",Yes,No,Banashankari,Dessert Parlor,Desserts,Desserts,Banashankari,41,3.9,300.0
+New Imperial Restaurant,"39/3C, Banashankari, Bangalore",No,No,Banashankari,Casual Dining,"North Indian, Chinese",Dine-out,Banashankari,39,3.7,450.0
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,"12,29 Near PES University Back Gate, D'Souza Nagar, Hosakerehalli, 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Cafe,Cafe,Cafes,Banashankari,402,4.1,500.0
+Juicy Momos,"32, 22nd Cross, 22nd Main, 2nd Stage, Near BDA Complex, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"Tibetan, Momos",Delivery,Banashankari,80,3.5,250.0
+Tandoori Bytes,"16, Sri Banashankri Arcade, Opposite GSI Building, Kumaraswamy Layout, Bangalore",Yes,No,Kumaraswamy Layout,Casual Dining,North Indian,Delivery,Banashankari,59,3.6,700.0
+Nammura Donne Biriyani,"84/1, South End Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Biryani, Fast Food",Dine-out,Banashankari,155,3.5,400.0
+Udupi Sri Krishna Bhavan,"115/116, 1st Floor, Gandhibazaar, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,South Indian,Dine-out,Banashankari,238,4.1,600.0
+Bendakaluru Bytes,"1349, 4th Cross Road, Kilkodungalur, RPC Layout, Vijay Nagar, Bangalore",Yes,No,Vijay Nagar,Quick Bites,Fast Food,Delivery,Banashankari,154,3.2,300.0
+Anand Sweets and Savouries,"4 & 5, 27th Cross, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Sweet Shop,"Mithai, Street Food",Delivery,Banashankari,84,3.9,400.0
+Mulabagilu Dosa,"19, V.V.puram National School Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,South Indian,Delivery,Banashankari,11,3.6,100.0
+Sweet N Swirl,"18/22, 22nd Main, 80 Feet Road, Hanumanth Nagar, 3rd Stage, Banashankari, Bangalore",No,No,Banashankari,Dessert Parlor,"Desserts, Ice Cream",Desserts,Banashankari,17,3.2,150.0
+Sri Krishna Darshini,"60/2, Sajjan Rao Circle, V V Puram, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"South Indian, North Indian, Chinese",Delivery,Banashankari,4,3.1,200.0
+Hotel Mangala,"Hotel Mangala, 10th Main, Pipeline Road, Hanumanth Nagar, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,South Indian,Dine-out,Banashankari,88,3.9,250.0
+Vi Ra's Bar and Restaurant,"3828, Near Deve Gowda Petrol Bunk, 30th Cross, 3rd Stage, Banashankari, Bangalore",No,No,Banashankari,Bar,"South Indian, North Indian, Chinese",Drinks & nightlife,Banashankari,62,3.3,800.0
+Swadd Kitchen,"32/2, DVG Road, Basavanagudi, Karnataka, Bangalore",Yes,No,Basavanagudi,Casual Dining,"North Indian, Fast Food",Delivery,Banashankari,4,3.4,500.0
+Chickpet Donne Biryani House,"480/A, 50 feet road, Nagendra block, Near PES College, Nagendra block, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,Biryani,Delivery,Banashankari,21,3.7,250.0
+Eat Repeat,"13, 4th Cross Road, NR Colony, Basavanagudi, Bengaluru",Yes,No,Basavanagudi,Quick Bites,South Indian,Delivery,Banashankari,101,3.9,150.0
+Chicken Hunt,"222, 100 Feet Road, Near Kathriguppe Signal, Opposite Udbav Hospital, 6th Block, 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"South Indian, North Indian, Chinese, Biryani",Dine-out,Banashankari,88,3.5,350.0
+Dwaraka Grand,Near dayananda sagar college kumarswamy layout,Yes,No,Kumaraswamy Layout,Casual Dining,"South Indian, Chinese, Street Food, Juices",Delivery,Banashankari,128,3.9,500.0
+Chung's Chinese Corner,"295, Sri Krishna Complex, 10th Main, 3rd Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,Chinese,Delivery,Banashankari,221,3.9,700.0
+Udupi Upachar,"5 Zaina Towers, 9th Main Yarab Nagar Main Road Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"South Indian, North Indian",Dine-out,Banashankari,6,3.3,500.0
+Ganesh Grand,"91/1, Ganesh Mahal Building, Sirsi Road, Chamarajpet, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"South Indian, North Indian, Desserts",Delivery,Banashankari,30,3.7,300.0
+J K Fish Land,"272, 14th Cross Road, Yediyur, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Seafood, Mangalorean",Dine-out,Banashankari,35,3.6,300.0
+The Vintage Cafe,"146, 50 ft Road, 3rd Phase, 3rd Stage, Near Katriguppe Water Tank Circle, Banashankari, Bangalore",Yes,No,Banashankari,Cafe,"Cafe, French, North Indian",Delivery,Banashankari,62,3.0,400.0
+The Biryani Cafe,"476, 2nd Floor, 9th Cross, Avalahalli BDA Park, BSK 3rd Stage, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,"Biryani, Chinese, Kebab",Dine-out,Banashankari,520,4.1,300.0
+Gama Gama,"17, Ground Floor, Near Big Bazar, 100 Feet Ring Road, 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,South Indian,Delivery,Banashankari,264,3.9,200.0
+Upahara Darshini,"9/2, South End Main Road, Next to Surana College, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Casual Dining,"North Indian, Chinese, South Indian, Fast Food",Delivery,Banashankari,40,3.9,600.0
+Beijing Bites,"186, 16th Main, 24th Cross, 2nd Stage, Banashankari, Bangalore",No,No,Banashankari,Casual Dining,"Chinese, Thai",Dine-out,Banashankari,128,2.7,850.0
+Davanagere Benne Dose Hut,"Shop 97, 22nd Main Road, Near Banashankari BDA complex, Banashankari Stage II, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,South Indian,Delivery,Banashankari,10,3.4,100.0
+Seven Star,"23/35, 7th Cross, Dwarakanagar, Hosakerhalli, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"North Indian, Chinese",Delivery,Banashankari,7,3.4,250.0
+My Tea House,"224/Y, 4th Phase, 7th Block, 100 Feet Ring Road, Near Kamakya Theatre, Banashankari, Bangalore",Yes,No,Banashankari,"Quick Bites, Cafe","Italian, Fast Food, Cafe, European",Delivery,Banashankari,62,3.6,600.0
+Juice Junction Food Court,"54, Bull Temple Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Juices, South Indian, Chinese, Fast Food",Dine-out,Banashankari,57,3.7,200.0
+Sri Venkateshwara Chat Centre,"487, Kavery Complex, 2nd Main, Bank Colony Bus Stop, Srinivasnagar, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,Street Food,Dine-out,Banashankari,12,3.5,100.0
+Kholi Mane,"144/1, 2nd Main Road, 2nd Block, Thyagaraja Nagar, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"Andhra, South Indian, Biryani, North Indian",Delivery,Banashankari,46,3.6,450.0
+Kholi Mane,"144/1, 2nd Main Road, 2nd Block, Thyagaraja Nagar, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"Andhra, South Indian, Biryani, North Indian",Dine-out,Banashankari,46,3.6,450.0
+Davangere Butter Dosa Hotel,"1771, 14th Main Road, 1stage, Kumaraswamy Layout, Bangalore",Yes,No,Kumaraswamy Layout,Quick Bites,South Indian,Delivery,Banashankari,25,3.8,150.0
+Tasty Bytes,"1607, Sagar Hospital Road, Near Dayanandasagar College, Kumaraswamy Layout, Bangalore",Yes,No,Kumaraswamy Layout,Quick Bites,"North Indian, Chinese, Momos, Rolls",Delivery,Banashankari,245,3.1,300.0
+Lassi Stop,"11,12, 80 Feet Road, Behind Reliance Fresh, Banashankri, Bangalore",Yes,No,Banashankari,"Beverage Shop, Quick Bites","Beverages, Fast Food, Juices",Delivery,Banashankari,12,3.4,150.0
+Naveen Kabab & Biriyani Mane,"2, 3rd Cross, Near Pesit College, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,Biryani,Delivery,Banashankari,9,3.2,300.0
+Sri Krishna Sweets,"121, DVG Road, R.M Complex, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Sweet Shop,"Mithai, Desserts",Desserts,Banashankari,22,3.7,250.0
+New Prashanth Hotel,"43/2, 100 Feet Road, Kamakya Complex, 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"Biryani, North Indian, Seafood, Andhra",Delivery,Banashankari,388,3.9,650.0
+Amma's Pastries,"57/18, 12th Main, Opposite PES College, Banashankari, Bangalore",No,No,Banashankari,Dessert Parlor,Bakery,Desserts,Banashankari,60,3.8,400.0
+Kollapuri's,"1, Corporation Market, Gandhi Bazar, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"South Indian, Mangalorean",Delivery,Banashankari,206,3.9,450.0
+My Tea House,"224/Y, 4th Phase, 7th Block, 100 Feet Ring Road, Near Kamakya Theatre, Banashankari, Bangalore",Yes,No,Banashankari,"Quick Bites, Cafe","Italian, Fast Food, Cafe, European",Cafes,Banashankari,62,3.6,600.0
+Catch-up-ino,"241, 4th Floor, 100 Feet Ring Road, Opposite Kamakya Theatre, Banashankari, Bangalore",Yes,No,Banashankari,Cafe,"Cafe, Fast Food, Continental, Chinese, Momos",Delivery,Banashankari,133,3.9,800.0
+Upahar Sagar,"727, 23rd Cross, KR Road, 2nd Stage, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,"South Indian, Chinese, North Indian",Delivery,Banashankari,39,3.8,350.0
+The Lassi Park,"22nd Cross, New Diagonal Road, Opposite N MKRV Womens College, 3rd Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Juices, Desserts",Delivery,Banashankari,185,4.1,200.0
+RS Shiv Sagar,"5, Mallariah Complex, Near Corporation Bank, Gandhi Nagar, Basavanagudi, Bangalore",No,No,Basavanagudi,Casual Dining,"North Indian, Chinese, South Indian, Fast Food, Juices",Delivery,Banashankari,217,3.7,450.0
+Parjanya Chat Zone,"68, Opposite ICICI Bank, 21st Main Road, 2nd Stage, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,"Street Food, Fast Food",Delivery,Banashankari,17,3.3,200.0
+Om Shiva Shakthi Chats Centre,"90/3, Eat Street, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"Street Food, Fast Food",Dine-out,Banashankari,26,3.9,300.0
+Lalbagh Grand,"1, Krishna Rao Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"South Indian, North Indian, Chinese",Delivery,Banashankari,22,3.0,250.0
+Swadesh Tadka,"101, Manjunatha Complex, Near BDA Complex, 22nd Main, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"North Indian, Chinese, Beverages",Dine-out,Banashankari,179,3.5,600.0
+Utsav Restaurant,"38/A, Mount Joy Road, Hanumanthnagar, Behind BMS College, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"North Indian, Chinese",Delivery,Banashankari,61,3.8,300.0
+In Time Cane Juice,"119, 5th Cross, Teachers Colony, Kumaraswamy Layout, Bangalore",Yes,No,Kumaraswamy Layout,Beverage Shop,"Juices, Beverages",Delivery,Banashankari,10,3.5,100.0
+Redberrys,"30, Surveyor Street, DVG Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Cafe,"Cafe, Italian",Cafes,Banashankari,219,4.0,600.0
+Hanumanthanagar Biryani Junction,"Opposite SVC Bank, Mount Joy Road, Hanumanth Nagar, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,South Indian,Dine-out,Banashankari,17,3.5,300.0
+Chinese Kitchen,"67, Kanasu Complex, Kubirmutt Road, Hunumathathangar, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,Chinese,Dine-out,Banashankari,58,3.8,150.0
+The Krishna Grand,"1, Monotype, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"North Indian, South Indian, Chinese, Fast Food, Juices",Dine-out,Banashankari,888,3.9,750.0
+Hotel New Karavali,"89, Behind Venkateshwara Bar, Near PES College, 1st Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"Mangalorean, South Indian, North Indian",Dine-out,Banashankari,133,3.8,300.0
+Veganbreak24x7,"2, Medical College East Main Road, Kalasipalyam, Behind Bangalore Medical College, City Market, Bangalore",Yes,No,City Market,"Takeaway, Delivery","South Indian, Chinese, Continental, Biryani",Delivery,Banashankari,5,2.8,199.0
+Taaza Thindi,"115, 100 Feet Ring Road, Kathriguppe, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,South Indian,Dine-out,Banashankari,651,4.7,100.0
+Roll N Rock,"608, 21st Cross, Kumaraswamy Layout, Bangalore",Yes,No,Kumaraswamy Layout,Quick Bites,"Chinese, North Indian, Mughlai, Rolls",Delivery,Banashankari,124,3.8,400.0
+SVKP Daily Fresh,"240, 9th Main, Srinivasanagar, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,South Indian,Dine-out,Banashankari,5,3.3,350.0
+Lassi Corner,"1304, Kathriguppe Main Road, Ashok Nagar, NR Colony, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Beverage Shop,"Beverages, Ice Cream",Delivery,Banashankari,107,3.7,150.0
+Castle Rock,"1/2, Opposite Indian Oil Petrol Bunk, 1st Cross, Kaderanhalli Crossroad, Subramanyapura Main Road, Padmanabhanagar, Uttarahalli, Bangalore",Yes,No,Uttarahalli,Casual Dining,"North Indian, Chinese",Dine-out,Banashankari,172,3.6,700.0
+Krishna Sagar,"38, 22nd Main, 22nd Cross, Opposite BDA, 2nd Stage, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,North Indian,Delivery,Banashankari,31,3.5,200.0
+Frozen Bottle,"2477, 24th Cross Road, Siddanna Layout, Stage 2, Banashankari, Bangalore",Yes,No,Banashankari,Beverage Shop,"Beverages, Desserts, Ice Cream",Delivery,Banashankari,146,4.2,400.0
+Cafe Coffee Day,"28th Main, 8th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Cafe,"Cafe, Fast Food",Delivery,Banashankari,17,3.2,900.0
+Poonam Sweets,"43, BDA Complex, 2nd Stage, Banashankari, Bangalore",No,No,Banashankari,Sweet Shop,Mithai,Desserts,Banashankari,356,4.4,150.0
+The Big O Bakes,"45/12, 4th Cross, 10th Main, Gururaja Layout, Banashankari, Bangalore",No,No,Banashankari,Bakery,"Bakery, Desserts",Desserts,Banashankari,66,4.0,300.0
+North Rasoe,"52, Dayanand Sagar College Road, Teachers Colony, Near ICICI Bank ATM, Bangalore East, Bangalore Urban Karnataka, Kumaraswamy Layout, Bangalore.",Yes,No,Kumaraswamy Layout,Casual Dining,"North Indian, Chinese, Biryani, Kebab",Delivery,Banashankari,5,3.1,500.0
+Foodiction,"2/1, 7th Main, Dwarakangar, Hosakeregalli, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"North Indian, Fast Food, Chinese, Burger",Delivery,Banashankari,506,2.8,500.0
+Udupi Ruchi Grand,"6th Block, 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"South Indian, North Indian, Chinese, Street Food",Delivery,Banashankari,60,4.2,200.0
+Maruthi Davangere Benne Dosa,"556/A, Water Tank Road, 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,South Indian,Dine-out,Banashankari,17,4.0,150.0
+Srikrishna Bhavan,"Next To BMTC Bus Stand, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"South Indian, North Indian, Chinese",Delivery,Banashankari,42,3.8,300.0
+Andhra Ruchulu,"The President Hotel, 79/8, Diagonal Road, 3rd Block, Jayanagar, Bangalore",Yes,Yes,Jayanagar,"Casual Dining, Bar","Andhra, Biryani, North Indian, Chinese",Delivery,Banashankari,666,4.1,1000.0
+Namma Biryani,"1111, Near KIMS, 30th Main Road, Siddanna Layout, Stage 2, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"Biryani, Chinese, North Indian",Dine-out,Banashankari,24,3.6,250.0
+Sandwichwallas,"278, 37th A Cross, 2nd Main, 8th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,Fast Food,Delivery,Banashankari,35,3.7,200.0
+FreshMenu,"10, Stavyah Arcade, 3rd Floor 9th Main, Yarab Nagar Main Road, Banashankari, Bangalore",Yes,No,Banashankari,Delivery,"Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",Delivery,Banashankari,627,3.9,450.0
+Ice Thunder,"DV Gundappa Road, Gandhi Bazar Circle, Binny Talkies, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"South Indian, Fast Food, North Indian, Desserts",Dine-out,Banashankari,124,3.8,300.0
+Meat And Eat,"21/22, 24th Main 50 Feet Road, T block, Girinagar, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,"Fast Food, Burger",Dine-out,Banashankari,12,3.5,500.0
+Basavanagudi Mylari,"26/2, Bugle Rock Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka",No,No,Basavanagudi,Quick Bites,South Indian,Dine-out,Banashankari,52,4.0,300.0
+Shreyas Upahar & Burger Point,"Jain Temple Street, V.V.Puram, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"South Indian, Burger",Delivery,Banashankari,7,3.0,200.0
+Kolbeh,"1430, 22nd Cross, Next To Coffee Day, Near BDA Complex, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,Fast Food,Delivery,Banashankari,22,3.7,500.0
+San Churro Cafe,"1112, Next to KIMS Medical College, 17th Cross, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,"Cafe, Casual Dining","Cafe, Mexican, Italian",Buffet,Banashankari,918,3.8,800.0
+Blue Wings Bar & Restaurant,"488/1, 7th Main Road, 50 Feet Road, Hannumantha Nagar, Banashankari, Bangalore",No,No,Banashankari,"Bar, Casual Dining","North Indian, Chinese",Dine-out,Banashankari,43,3.7,700.0
+Waffle-A-Go Go,"599, 24th Cross, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Dessert Parlor,"Fast Food, Desserts, Ice Cream",Desserts,Banashankari,70,3.9,400.0
+Tiwari's,"616/2, 31st Cross, 10th A Main Road, 4th block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"North Indian, Street Food",Delivery,Banashankari,70,3.8,200.0
+Peppy Peppers,"942, 3rd Floor, 21st Main Road, 2nd Stage, Banashankari, Bangalore",No,No,Banashankari,Casual Dining,"Italian, North Indian, Mexican",Delivery,Banashankari,244,4.2,800.0
+Blue Wings Bar & Restaurant,"488/1, 7th Main Road, 50 Feet Road, Hannumantha Nagar, Banashankari, Bangalore",No,No,Banashankari,"Bar, Casual Dining","North Indian, Chinese",Drinks & nightlife,Banashankari,43,3.7,700.0
+KFC,"1, 80 Feet Road, 6th Block, 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"Burger, Fast Food",Delivery,Banashankari,505,3.8,450.0
+Amande Patisserie,"115, 4th Main, 4th Stage, Thyagarajanagar, Near, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Bakery,"Bakery, French, Desserts",Delivery,Banashankari,73,4.0,300.0
+The Coffee Shack,"6th Block, 3rd Stage, Banashankari, Bangalore",Yes,Yes,Banashankari,Cafe,"Cafe, Chinese, Continental, Italian",Delivery,Banashankari,164,4.2,500.0
+Lassi Shop,"742, 50 Feet Rd, Raghavendra Block, Banashankari 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Beverage Shop,"Beverages, Ice Cream, Fast Food",Delivery,Banashankari,45,3.5,300.0
+J Spice,"632/A, 24th Cross, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"North Indian, Chinese",Delivery,Banashankari,59,3.8,750.0
+Karavali Lunch Home,"1779, 14th Main, Kumaraswamy Layout, Bangalore",Yes,No,Kumaraswamy Layout,Quick Bites,"South Indian, Mangalorean",Delivery,Banashankari,51,3.7,350.0
+New Quality Dum Biryani,"106/729, 80 Feet Road, Hoskerehalli Cross, 3rd Stage, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,Biryani,Dine-out,Banashankari,9,3.1,200.0
+Sea Spice by 7 Star,"1890, Shetty Gardenia, 9th Main, Kaverinagar, 2nd Stage, Banashankari, Bangalore",Yes,Yes,Banashankari,Casual Dining,"Seafood, Biryani, Beverages, South Indian, North Indian, Kebab",Delivery,Banashankari,349,4.0,1200.0
+Punjabi Raswada,"SM Towers, Near Cosmopolitan Club, 4/3/1 & 3/2, 1st Floor, 11th Main, Jayanagar, Bangalore",Yes,Yes,Jayanagar,Casual Dining,North Indian,Delivery,Banashankari,431,3.5,800.0
+Shanthi Sagar,"24, Subramaniapura Main Road, Uttarahalli, Bangalore",Yes,No,Uttarahalli,Casual Dining,"South Indian, North Indian, Chinese",Delivery,Banashankari,28,3.1,400.0
+The Krishna Grand,"1, Monotype, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"North Indian, South Indian, Chinese, Fast Food, Juices",Delivery,Banashankari,888,3.9,750.0
+Baisakhi,"160, Gandhi Bazar Main Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Casual Dining,North Indian,Delivery,Banashankari,527,3.8,500.0
+Kaggis,"50 Feet Road, Hanumanthanagar, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,"Fast Food, Bakery",Delivery,Banashankari,64,3.8,250.0
+Nammura Donne Biriyani,"84/1, South End Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Biryani, Fast Food",Delivery,Banashankari,155,3.5,400.0
+Manifest Cafe,"#9, 5th Cross, 7th Main, Dwaraka Nagar, Near PESIT College, Hosakerehalli, Banashankari 3rd Stage, Bangalore",No,No,Banashankari,Casual Dining,"South Indian, North Indian, Chinese",Dine-out,Banashankari,10,3.5,500.0
+Burger King,"59/3, Ground & First Floor, West Anjaneya Temple Road, Ward 49, Gandhi Bazaar, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Burger, Fast Food, Beverages",Delivery,Banashankari,71,3.2,600.0
+Cake Art,"1/A, 3rd Main, 7th Cross, Kattebalag, Narasimharaja Colony, Basavanagudi, Bangalore",No,No,Basavanagudi,"Bakery, Quick Bites",Bakery,Delivery,Banashankari,15,3.5,400.0
+HOT COFFEE,"79, Vanivilas Road, Next to KFC, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"South Indian, Chinese",Delivery,Banashankari,70,4.1,150.0
+Onesta,"2469, 3rd Floor, 24th Cross, Opposite BDA Complex, 2nd Stage, Banashankari, Bangalore",Yes,Yes,Banashankari,"Casual Dining, Cafe","Pizza, Cafe, Italian",Delivery,Banashankari,2556,4.6,600.0
+The Good Bowl,"101, Ground Floor, Manjunatha Complex, 22nd Main Road, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,"Takeaway, Delivery","Italian, North Indian, Biryani",Delivery,Banashankari,6,3.6,500.0
+Foodizo,"17, Near BDA Complex, 25th Cross Road, 21st Main, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"Desserts, Fast Food, Continental",Delivery,Banashankari,24,3.6,300.0
+New Ambur Hot Dum Biryani,"Near BHEL, Mysore Road, Bangalore",No,No,Mysore Road,Quick Bites,Biryani,Dine-out,Banashankari,8,3.2,150.0
+Bengaluru Coffee House,"4001/4002, Annapoorneshwari Plaza, Near Seetha Circle, Hosakerehalli Cross, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"South Indian, North Indian, Chinese, Street Food",Dine-out,Banashankari,201,4.1,300.0
+Kanti Sweets,"374/B, 2nd Phase, BSK 3rd Stage, Srinivasa Nagar, Banashankari, Bangalore",Yes,No,Banashankari,Sweet Shop,"Mithai, Street Food",Delivery,Banashankari,115,4.0,400.0
+Krishna Sagar,"38, 22nd Main, 22nd Cross, Opposite BDA, 2nd Stage, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,North Indian,Dine-out,Banashankari,31,3.5,200.0
+Shree Mandarathi Grand,"8/10, Subramanyapura Main Road, Near Royal Mart, Uttarahalli, Bangalore",Yes,No,Uttarahalli,Casual Dining,"South Indian, North Indian",Delivery,Banashankari,38,3.7,400.0
+Simple Thindies,"2/B J P Road, Girinagar I Phase, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,South Indian,Dine-out,Banashankari,8,3.5,200.0
+Kavali,"Chennammana Kere, Kathreguppe, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,"South Indian, Street Food",Dine-out,Banashankari,42,4.0,300.0
+Cake-O-Mania,"Amoda Valmark Central Excise Layout, Phase 2, Tejaswini Nagar, Dodda Kamanahalli Area, Bannerghatta Road",Yes,No,Bannerghatta Road,"Takeaway, Delivery","Bakery, Desserts",Delivery,Bannerghatta Road,7,3.4,300.0
+Vishal Foods,"2, Akshay Nagar, Near DLF New Town, Begur Main Road, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Chinese, North Indian, Street Food",Delivery,Bannerghatta Road,57,3.3,250.0
+Brew Point,"10/3, Shamanna Garden, 22nd Main Rd, Phase 5, JP Nagar, Bangalore",Yes,No,JP Nagar,Cafe,"Cafe, American, Burger, Sandwich, Fast Food",Cafes,Bannerghatta Road,10,3.6,500.0
+Hotel Aradhana,"193, N.S. Pallya, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,North Indian,Dine-out,Bannerghatta Road,51,3.7,300.0
+Crepe Nation,"16th Mian Road, 2nd Stage, BTM, Bangalore",Yes,No,South Bangalore,Food Truck,"Fast Food, Desserts",Delivery,Bannerghatta Road,12,3.8,300.0
+Bhavani Chats,"A11, Opposite Ranka Apartments, Bilekahalli, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,Street Food,Delivery,Bannerghatta Road,34,3.6,100.0
+Special Biriyani,"Sarakki Signal, Kanakapura Road, 6th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"North Indian, Biryani",Delivery,Bannerghatta Road,4,2.9,300.0
+Crumb Together,"45, 100 Feet Road, Opposite Mandovi Motors, 4th Phase, JP Nagar, Bangalore",Yes,Yes,JP Nagar,"Casual Dining, Bar","Continental, Finger Food, North Indian, Chinese",Drinks & nightlife,Bannerghatta Road,585,4.1,1200.0
+Bhojohori Manna,"42, Opposite RV Dental College, 7th Cross, JP Nagar, Bangalore",Yes,No,JP Nagar,Casual Dining,"Bengali, Mughlai",Delivery,Bannerghatta Road,662,3.7,650.0
+Fish Chain,"1260 SY 35/4 SJR Tower's, 24th Main Puttanhalli, 7th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,"Takeaway, Delivery","Seafood, BBQ, Biryani",Delivery,Bannerghatta Road,37,3.9,250.0
+Hot Rolls & House Of Kebabs,"RBI Layout, Puttenahalli, Phase 7, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"Rolls, Kebab, Biryani",Delivery,Bannerghatta Road,55,3.1,200.0
+Mahek Pizza,"24th Main, 5th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,Pizza,Delivery,Bannerghatta Road,38,3.9,400.0
+Hotel Annapoorna,"Opposite Sai Baba Temple, 80 Feet Main Road, Arekere, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"South Indian, Chinese, North Indian, Seafood",Dine-out,Bannerghatta Road,9,3.2,400.0
+Meal Square,"175/176, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Delivery,"North Indian, Chinese",Delivery,Bannerghatta Road,8,3.2,600.0
+Zhang's - Chinese Restaurant,"1743, Raghavendra Plaza , 2nd Phase, (Near Diwakars Hospital), JP Nagar, Bangalore",Yes,No,JP Nagar,Casual Dining,"Chinese, Momos",Dine-out,Bannerghatta Road,587,4.1,700.0
+Pepper Crown Restaurant,"8th Floor, Club House, SNN Raj Serenity Apartments, Koppa-Begur Main Road, Yelnahalli, Bannerghatta Road",Yes,No,Bannerghatta Road,Casual Dining,"Continental, North Indian, Chinese",Delivery,Bannerghatta Road,7,3.2,700.0
+The Cravery,"296, Ground Floor, 5th Phase, 100 ft Outer Ring Road, JP Nagar, Bangalore",Yes,No,JP Nagar,Cafe,"Continental, Burger, Beverages, Cafe, Italian, Rolls",Delivery,Bannerghatta Road,18,2.6,500.0
+Kumbha Bhojanam,"Shop 7, 3 Floor, Royal Minakshi Mall, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Food Court,Andhra,Delivery,Bannerghatta Road,11,3.6,300.0
+Pika's Kitchen,"Shop 2, Ground Floor, Shree Durga Complex, Nobel Residency Road, Off Begur Main Road, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Casual Dining,"Continental, Italian",Delivery,Bannerghatta Road,24,3.4,800.0
+Kolkata Famous Kati Rolls,"Opposite IBM, Near Big Bazar, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,"Takeaway, Delivery","Fast Food, Rolls",Delivery,Bannerghatta Road,25,3.1,100.0
+Cakebuy,"1 B, Krishnamurthy Complex, Kodichikkanahalli Road, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Dessert Parlor,Desserts,Desserts,Bannerghatta Road,70,3.9,350.0
+TFI - The Fresh Ice Cream,"38, Opposite to SBI Bank, Near Village Hyper Market, Akshay Nagar, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Dessert Parlor,"Ice Cream, Beverages",Delivery,Bannerghatta Road,41,3.2,400.0
+Chicken Dera,"2A/16, 22nd Main, Mosque Road, Vinayakanagar, JP Nagar, Bangalore",No,No,JP Nagar,Quick Bites,"Mughlai, Kebab, Biryani",Dine-out,Bannerghatta Road,25,3.0,400.0
+Vinaya Cafe,"30, 33rd Main, 16th Cross, 6th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"South Indian, Street Food, Juices",Delivery,Bannerghatta Road,55,3.7,200.0
+Cafe Coffee Day,"524, 60 Feet Road,Vijaya Bank Layout, Opposite Police Station, Belekahalli, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Cafe,"Cafe, Fast Food",Delivery,Bannerghatta Road,26,3.7,900.0
+The Pavillion,"Quality Inn - Shravanthi, 60, 13th Cross, 2nd Main, 3rd Phase, JP Nagar, Bangalore",No,No,JP Nagar,Casual Dining,"North Indian, Continental, South Indian, Chinese",Dine-out,Bannerghatta Road,43,2.7,1000.0
+Crumb Together,"45, 100 Feet Road, Opposite Mandovi Motors, 4th Phase, JP Nagar, Bangalore",Yes,Yes,JP Nagar,"Casual Dining, Bar","Continental, Finger Food, North Indian, Chinese",Delivery,Bannerghatta Road,583,4.1,1200.0
+Juice Fresco & Pizza,"47/1, 9th Main, 1st Cross, 3rd Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,"Quick Bites, Beverage Shop","Beverages, Pizza",Delivery,Bannerghatta Road,12,3.4,300.0
+55 Wall Street,"55, 2nd Floor, Goenka Chambers, 19th Main Road, Outer Main Road, JP Nagar, Bangalore",No,Yes,JP Nagar,Bar,"Finger Food, North Indian, Chinese",Drinks & nightlife,Bannerghatta Road,1763,3.9,1300.0
+Brewsky,"55, 5th Floor, Goenka Chambers, 19th Main Road, Jeewan Griha Colony, Phase 2, JP Nagar, Bangalore",Yes,Yes,JP Nagar,Microbrewery,"Continental, American",Drinks & nightlife,Bannerghatta Road,4312,4.4,1600.0
+Vaho Kafe & Pressery,"227,Sitaram Complex, Bilekahalli,opp to IIM-B, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Cafe,"Cafe, Healthy Food, Asian, Italian, North Indian, Biryani, Juices",Delivery,Bannerghatta Road,125,3.9,500.0
+A2B - Adyar Ananda Bhavan,"1260, SY 35/4, SJR Tower's, 7th Phase, 24th Main Puttanhalli, JP Nagar, Bangalore",Yes,No,JP Nagar,"Takeaway, Delivery","South Indian, North Indian, Chinese, Street Food",Delivery,Bannerghatta Road,51,4.1,200.0
+Bhaijaan Barbeques,"Opposite Ranka Colony, Off Bannerghatta Road, Bangalore",Yes,No,South Bangalore,Food Truck,"Mughlai, Arabian, BBQ",Delivery,Bannerghatta Road,8,3.4,200.0
+Kababish Restaurant,"7th Main, 18th Cross NS Palya, 2nd Stage",Yes,No,BTM,,"North Indian, Chinese, Arabian",Dine-out,Bannerghatta Road,15,3.6,700.0
+Fresh Kitchen,"No.16/30, Ground Floor, NS Palya, Bannerghatta Main Road, BTM layout, Bangalore",Yes,No,Bannerghatta Road,Casual Dining,"North Indian, Chinese",Dine-out,Bannerghatta Road,13,3.4,600.0
+Kalingas,"399, 16th Main, N.S Palya, BTM, Bangalore",Yes,No,BTM,Quick Bites,"Oriya, Fast Food",Delivery,Bannerghatta Road,173,3.9,250.0
+Flow - Terrace Bar & Grill,"Eden Park7, 8 Doresani Palya, Near Kalyani Magnum, Opposite Oracle, 5th Phase, JP Nagar, Bangalore",No,No,JP Nagar,"Lounge, Bar","Pizza, Continental, North Indian, Chinese",Dine-out,Bannerghatta Road,82,3.8,1000.0
+Combo Studio,"Near Royal Meenakshi Mall, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Casual Dining,"North Indian, Biryani, Chinese",Delivery,Bannerghatta Road,16,3.1,500.0
+Nellore Bhojanam,"Near Fortis Hospital, Opposite IBM, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,Andhra,Delivery,Bannerghatta Road,175,3.1,250.0
+The Chocolatiers,"Third Floor, Royal Meenakshi Mall, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Dessert Parlor,Desserts,Desserts,Bannerghatta Road,14,3.5,150.0
+The Cravery,"296, Ground Floor, 5th Phase, 100 ft Outer Ring Road, JP Nagar, Bangalore",Yes,No,JP Nagar,Cafe,"Continental, Burger, Beverages, Cafe, Italian, Rolls",Cafes,Bannerghatta Road,18,2.6,500.0
+Mast Kalandar,"287, Ground Floor, 15th Cross, 5th Phase, JP Nagar, Bangalore",No,No,JP Nagar,Casual Dining,North Indian,Dine-out,Bannerghatta Road,175,2.3,450.0
+Status,"70/71, Seetharam Complex, Bilekahalli, Bannerghatta Main Road, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Casual Dining,"North Indian, Chinese",Dine-out,Bannerghatta Road,66,3.2,600.0
+The Good Bowl,"161, 161 A, 166, First Floor, Vinayaka Nagar, BG Arkere Road, Near Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,"Takeaway, Delivery","Italian, North Indian, Biryani",Delivery,Bannerghatta Road,8,3.6,500.0
+Kesariya,"55, Goenka Chambers, Jeevan Griha Colony, 19th Main, Phase 2, JP Nagar, Bangalore",No,Yes,JP Nagar,Casual Dining,Rajasthani,Dine-out,Bannerghatta Road,1212,4.2,1200.0
+Oye Amritsar,"72, 2nd Floor, Next to Max & Crossword, 3rd Phase, Inner Ring Road, JP Nagar, Bangalore",Yes,Yes,JP Nagar,Casual Dining,North Indian,Delivery,Bannerghatta Road,756,3.8,1000.0
+Panther Cafe,"746, 13th Main Road, 7th Cross Road, 2nd Stage, BTM, Bangalore",Yes,No,BTM,Beverage Shop,Beverages,Delivery,Bannerghatta Road,8,3.5,200.0
+Chaitanya Cafe,"135/15, 100 Feet Ring Road, 3rd Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"South Indian, North Indian, Fast Food",Delivery,Bannerghatta Road,92,3.9,300.0
+MK Dabbawala,"19, Jalaram Estate, Arekere, Opposite Food World, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Delivery,North Indian,Delivery,Bannerghatta Road,22,3.0,400.0
+Dakshin Cafe,"53/1, 3rd Main Road, Dr. Vivekananda Layout, Santrupthi Nagar, 7th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,South Indian,Delivery,Bannerghatta Road,140,4.1,100.0
+Flavorsome Bakes,"Arjun Aura Apartment, Vijaya Bank Layout, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,"Takeaway, Delivery","Bakery, Desserts",Desserts,Bannerghatta Road,93,4.0,800.0
+Babu Moshai,"31454, Doddakammanahalli Main Road, Central Excise Layout, Phase 2, Tejaswini Nagar, Bengaluru",Yes,No,Bannerghatta Road,Quick Bites,"Fast Food, Bengali",Delivery,Bannerghatta Road,43,3.0,500.0
+Bathinda Junction,"36, 29th Main Road, Mahadeshwara Nagar, Stage 2, BTM, Bangalore",Yes,No,BTM,Casual Dining,North Indian,Delivery,Bannerghatta Road,362,3.9,600.0
+Cocoa 'n' CrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨me,"203, Nanjundeshwara Layout, 5h Phase, JP Nagar, Bangalore",No,No,JP Nagar,Bakery,"Bakery, Desserts",Delivery,Bannerghatta Road,11,3.5,250.0
+Mom's Momos,"204, Sri Lakshminarayan Complex, Pandrunga Nagar, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,Chinese,Delivery,Bannerghatta Road,6,3.3,300.0
+RICE BAR,"3, 1st Cross, Kalyani Kala Mandir, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Delivery,"North Indian, Biryani",Delivery,Bannerghatta Road,7,3.1,500.0
+Chai Point,"Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,"Beverage Shop, Quick Bites","Tea, Beverages, Fast Food",Delivery,Bannerghatta Road,132,3.6,250.0
+Garma Garam,"MICO Layout, Arakere, Opposite Vijaya Bank, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"North Indian, Chinese, Biryani, Rolls",Delivery,Bannerghatta Road,144,3.2,350.0
+Little Shangai,"Food Parade, Spar Hyper Market, Near Dairy Circle, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Food Court,"Chinese, North Indian, Fast Food",Delivery,Bannerghatta Road,4,3.3,400.0
+Donne Biriyani House,"99/2A, Kothnoor Main Road, Opposite RBI Layout Bus Stop, 7th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"Biryani, Andhra",Delivery,Bannerghatta Road,212,3.3,350.0
+Malabar Mess,"75/1, Hulimavu Gate, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Mess,Kerala,Delivery,Bannerghatta Road,43,3.7,250.0
+Mr Gola,"3rd Floor, Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Dessert Parlor,Desserts,Desserts,Bannerghatta Road,8,3.4,100.0
+Hearts Unlock Cafe,"18, 3rd Floor, 2nd Cross, NS Palya, Industrial Layout, BTM, Bangalore",No,No,BTM,Cafe,"Cafe, Healthy Food",Cafes,Bannerghatta Road,11,3.2,500.0
+Berrylicious,"1231/35/2, 24th Main, Opposite Brigade Palm Springs, 7th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Dessert Parlor,"Ice Cream, Desserts, Bakery",Delivery,Bannerghatta Road,89,3.8,400.0
+Ningi Family Restaurant,"48/58, Shivani Building, Beside Indian Oil Petrol Pump, Puttenahalli Road, 7th Phase, JP Nagar, Bangalore",No,No,JP Nagar,Quick Bites,"South Indian, Biryani, Chinese",Delivery,Bannerghatta Road,10,3.5,400.0
+New Royal Treat,"8/3, Opposite St. Thomas Parish Hall, 4th Cross, Bhavani Layout, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"North Indian, Chinese",Delivery,Bannerghatta Road,102,2.8,350.0
+Ambara Gardenia,"1065/A, 5th Cross, 13th Main, 2nd Floor, Vijaya Bank Layout, Bannerghatta Road, Bangalore",Yes,Yes,Bannerghatta Road,Casual Dining,"Andhra, North Indian, Chinese, Seafood",Dine-out,Bannerghatta Road,257,3.8,800.0
+Pallavas Veg Cuisine,"81, LA Prosperite, DLF City Road, Near Arkere Saibaba Temple, 6th Stage, 2nd Phase, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Casual Dining,"North Indian, South Indian, Chinese",Delivery,Bannerghatta Road,46,3.6,600.0
+Sagar Grand,"123, 5th Cross Road, Arakere Gate, Araka Mico Layout, Arekere, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"South Indian, North Indian, Chinese",Dine-out,Bannerghatta Road,30,3.8,300.0
+Purani Dilli By Anand Sweets,"9, Ground Floor, Opposite Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"North Indian, Continental, Street Food",Dine-out,Bannerghatta Road,315,4.1,500.0
+Burrito Boys,"Food Court, Vega City Mall, 172/1, Srinivas Industrial Estate, NS Palya, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,"Food Court, Quick Bites","Mexican, Tex-Mex",Delivery,Bannerghatta Road,6,3.0,400.0
+Chavadi,"4, Arama Suites, Sarvabhouma Nagar, Off Bannerghatta Road, Bannerghatta Road, Bangalore",Yes,Yes,Bannerghatta Road,"Casual Dining, Bar","Continental, North Indian, Pizza, Italian",Drinks & nightlife,Bannerghatta Road,2237,4.4,1200.0
+Roti Wala,"688, 7th Main, 10th Cross Main Road, 2nd Stage, BTM, Bangalore",Yes,No,BTM,Quick Bites,North Indian,Delivery,Bannerghatta Road,197,4.0,300.0
+Kanteen The Eatery,"22, Nyanapanahalli Main Road, Opposite Dominos Road, Before New DLF Township Circle, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,North Indian,Dine-out,Bannerghatta Road,78,3.9,400.0
+Dreamcatcher,"128/54/10, Ground Floor, Opposite IIM - B, above A2B Dasarapalya, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Cafe,Cafe,Cafes,Bannerghatta Road,49,3.9,600.0
+Pizza Hut,"311, 15th Cross, 5th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,Pizza,Delivery,Bannerghatta Road,159,2.7,750.0
+New Prashanth Hotel,"92, 1st Floor, DSN Plaza, 1st Main Road, 7th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Casual Dining,"South Indian, Biryani, Chinese, North Indian",Dine-out,Bannerghatta Road,64,3.1,750.0
+Empire Restaurant,"1260, SY 35/4, SJR Towers, 24th Main Puttanhalli, 7th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,"Takeaway, Delivery","Kerala, Seafood, South Indian, Chinese, North Indian, Charcoal Chicken, Beverages",Delivery,Bannerghatta Road,113,3.6,400.0
+Garma Garam,"MICO Layout, Arakere, Opposite Vijaya Bank, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"North Indian, Chinese, Biryani, Rolls",Dine-out,Bannerghatta Road,144,3.2,350.0
+Punjabi Corner,"13/11, 1A, BVN Building, Arekere Main Road, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"North Indian, Chinese",Dine-out,Bannerghatta Road,201,3.9,250.0
+Juice Land,"5, Ground Floor, Opposite Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Beverage Shop,"Juices, Beverages",Delivery,Bannerghatta Road,141,3.9,300.0
+Deccan Spice,"4, Sai Arcade,1st Floor, Wilson Garden Society, Kothnur Main Road, 7th Phase, JP Nagar, Bangalore",No,No,JP Nagar,Casual Dining,"North Indian, South Indian, Biryani",Dine-out,Bannerghatta Road,65,3.5,750.0
+Dakshin Food Palace,"#75/A, 24th Main, 6th Phase JP Nagar, Bangalore, Bengaluru",Yes,No,JP Nagar,Casual Dining,"South Indian, North Indian, Chinese",Dine-out,Bannerghatta Road,42,3.7,450.0
+Krispy Kreme,"172/1, 2nd Floor, Vega City Mall, Srinivas Industrial Estate, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Dessert Parlor,"Desserts, Beverages",Delivery,Bannerghatta Road,14,3.7,300.0
+Punjabi Times,"15/1, Opposite Shopper's Stop, Bannerghatta Road, Bangalore",Yes,Yes,Bannerghatta Road,Casual Dining,North Indian,Delivery,Bannerghatta Road,1025,4.1,1000.0
+Shiv Sagar,"4th Floor, Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"South Indian, Street Food",Dine-out,Bannerghatta Road,85,2.9,250.0
+Darjeeling Momos & Fast Food Center,"Near AECS Maruthi Dental College, Doddakammanahalli, Bannergatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Fast Food, Momos",Dine-out,Bannerghatta Road,37,3.8,250.0
+Samosa Singh,"#12, 12th Cross BDG Residency, Puttenahalli",Yes,No,JP Nagar,Quick Bites,"Street Food, Fast Food, Rolls, Desserts",Delivery,Bannerghatta Road,153,4.0,200.0
+K.C Das,"Akshayvana Complex, Akshay Nagar Main Road, Near DLF, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,"Sweet Shop, Quick Bites","Mithai, Street Food",Desserts,Bannerghatta Road,8,3.4,200.0
+Shuddh Desi Khana,"F 7, Ranka Villa, Opposite Kalyani Motors, Bilekahalli Main Road, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,North Indian,Dine-out,Bannerghatta Road,597,4.0,400.0
+Andhra Grills,"114/512, Kothanur Main Road, 7th Phase, JP Nagar, Bangalore",No,No,JP Nagar,Casual Dining,"Andhra, North Indian, Biryani",Dine-out,Bannerghatta Road,55,3.0,800.0
+Sai Abhiruchi,"808, 1st Floor, Above Eye World Optical, 7th Cross, 2nd Stage, BTM, Bangalore",Yes,No,BTM,Casual Dining,"Andhra, North Indian, Biryani",Delivery,Bannerghatta Road,335,3.7,800.0
+Roll Over,"10, Ground Floor, 24th Main, Ayodhya Nagar, 5th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Dessert Parlor,"Desserts, Ice Cream, Beverages, Fast Food, Sandwich",Desserts,Bannerghatta Road,237,4.1,500.0
+Coastal Inn,"204, Panduranga Nagar, Opposite HSBC, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Casual Dining,"Chinese, North Indian, Seafood",Dine-out,Bannerghatta Road,66,3.4,800.0
+Domino's Pizza,"10, 1st Floor, Opposite Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Pizza, Fast Food",Dine-out,Bannerghatta Road,314,3.7,800.0
+Box Magic,"67, Doresani Palya Main Road, Bilekahalli Dakahale, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"North Indian, South Indian, Seafood, Rolls",Dine-out,Bannerghatta Road,21,3.6,400.0
+Kalingas,"399, 16th Main, N.S Palya, BTM, Bangalore",Yes,No,BTM,Quick Bites,"Oriya, Fast Food",Dine-out,Bannerghatta Road,173,3.9,250.0
+Shaadi Ki Biryani,"Shop 1, 100 Feet Ring Road, 1st Phase, Stage 2, BTM, Bangalore",Yes,No,BTM,"Takeaway, Delivery","Biryani, North Indian, Mughlai",Delivery,Bannerghatta Road,28,3.1,400.0
+Desi Bites,"Food Parade, Spar Hypermarket, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Food Court,Street Food,Delivery,Bannerghatta Road,4,3.3,200.0
+Kabab Mehal,"44, 3rd Cross, Marenahalli, 2nd Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"Kebab, North Indian, Fast Food, Beverages",Delivery,Bannerghatta Road,65,3.7,400.0
+Maa'r Rannaghor,"104/1, 21st Main Road, 6th Cross Road, R K Colony, JP Nagar 2nd Phase, Bangalore",Yes,No,JP Nagar,Quick Bites,"Bengali, Chinese",Delivery,Bannerghatta Road,20,3.8,400.0
+Pizza Da Dhaba,"31, 4th Cross Road, Panduranga Nagar, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"Fast Food, Pizza",Dine-out,Bannerghatta Road,8,3.2,400.0
+Mom's Momos,"Near 7 Days Supermarket, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,Chinese,Dine-out,Bannerghatta Road,25,3.7,100.0
+CakeZone,"1260, SY 35/4, SJR Tower's, 7th Phase, 24th Main Puttanhalli, JP Nagar, Bangalore",Yes,No,JP Nagar,"Takeaway, Delivery","Bakery, Desserts",Delivery,Bannerghatta Road,13,3.7,200.0
+Hiyar Majhe Kolkata,"57/1, Near Alliance University, 19th Cross, 7th Main, 2nd Stage, BTM, Bangalore",Yes,No,BTM,Quick Bites,"Bengali, North Indian",Delivery,Bannerghatta Road,244,4.0,400.0
+Five Star Chicken,"18th Cross road, 5th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"Burger, Fast Food, Roast Chicken, Finger Food",Delivery,Bannerghatta Road,62,3.9,300.0
+Malhar Maharashtrian Cuisine,"16, Survey Number 13, Omkar Nagar, Arekere, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Casual Dining,Maharashtrian,Delivery,Bannerghatta Road,101,4.0,500.0
+Soup Station,"172/1, Vega City Mall, Floor 3, Food Court, Beside, Srinivas Industrial Estate, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,Continental,Dine-out,Bannerghatta Road,10,3.6,250.0
+WAFL,"3rd Floor, Food Court, Vega City Mall, Srinivas Industrial Estate, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Food Court,"Cafe, Fast Food, Desserts, Beverages",Delivery,Bannerghatta Road,40,3.9,400.0
+Hungry Buddies,"17, 19th Cross, 7th Main Road, NS Palya, BTM 2nd Stage, BTM, Bangalore",No,No,BTM,Quick Bites,North Indian,Dine-out,Bannerghatta Road,33,3.3,150.0
+Roll Wala,"235, 31st Main Road, Opposite Siddeshwara Theatre, Phase 6, JP Nagar, Bangalore",Yes,No,JP Nagar,"Takeaway, Delivery","Rolls, Juices",Delivery,Bannerghatta Road,7,3.3,300.0
+Roll Over,"10, Ground Floor, 24th Main, Ayodhya Nagar, 5th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Dessert Parlor,"Desserts, Ice Cream, Beverages, Fast Food, Sandwich",Delivery,Bannerghatta Road,237,4.1,500.0
+Crumb Together,"45, 100 Feet Road, Opposite Mandovi Motors, 4th Phase, JP Nagar, Bangalore",Yes,Yes,JP Nagar,"Casual Dining, Bar","Continental, Finger Food, North Indian, Chinese",Dine-out,Bannerghatta Road,585,4.1,1200.0
+Multi Cakes,"1065, 13th Cross, 6th Main, Kodichikanahalli, Vijay Bank Colony, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Bakery,"Bakery, Desserts",Desserts,Bannerghatta Road,9,3.0,200.0
+Nadella's Kitchen,"Shop 27/6, Vishweswaraiah Road, Near Sai Baba Temple, BTM 6th Stage Off, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"North Indian, Biryani",Delivery,Bannerghatta Road,4,3.3,300.0
+Resto,"200, 1st Main, 6th Cross, MICO Layout, Off Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"Chinese, North Indian, Fast Food, Momos",Dine-out,Bannerghatta Road,40,3.7,350.0
+Daily Bread,"135/5, 15th Cross, 3rd Stage, JP Nagar, Bangalore",No,No,JP Nagar,"Bakery, Quick Bites","Bakery, Fast Food, Italian",Desserts,Bannerghatta Road,63,3.2,600.0
+Nandhanus Rasoi,"#2035, 26th Main, South F Cross, Opposite Ragi Gudda Temple, 9th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Chinese, Rolls, North Indian",Delivery,Bannerghatta Road,9,3.4,200.0
+The Yummy Tummy,"24, Bannerghatta Main Road, Himagiri Meadows, Gottigere, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"North Indian, Street Food",Dine-out,Bannerghatta Road,13,3.5,200.0
+D2V Cafe,"173/218, GF, Opposite Ranka Colony, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Cafe,Cafe,Dine-out,Bannerghatta Road,13,3.6,700.0
+Insta Cafe,"18, 7th Main Road, NS Palya, Stage 2, BTM, Bangalore",Yes,No,BTM,Cafe,"Cafe, Continental, Pizza, Italian, Beverages",Delivery,Bannerghatta Road,7,2.9,400.0
+A M Biryani Hotel,"958/60/A2A, Opposite BGS School, Hulimavu, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"North Indian, Chinese, Biryani, Fast Food",Dine-out,Bannerghatta Road,6,3.3,300.0
+Inchara,"22/1, Krishna Building, Puttenahalli Main Road, 6th Phase, JP Nagar, Bangalore",No,No,JP Nagar,Casual Dining,"North Indian, Continental, Chinese",Dine-out,Bannerghatta Road,535,3.7,950.0
+Kanhaiyas,"1, CVS Reddy Building, Arakere Main Road, Near Muthut Finance, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,South Indian,Delivery,Bannerghatta Road,10,3.6,150.0
+Shiv Sai,"Near Meenakshi Mall, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,North Indian,Dine-out,Bannerghatta Road,4,3.2,400.0
+Kabab Mehal,"Next to Spencer's, Kothanur Main Road, Gaurav Nagar, 5th Cross Road, 7th Phase, JP Nagar, Bangalore",No,No,JP Nagar,Quick Bites,"North Indian, Chinese, Kebab, Juices",Dine-out,Bannerghatta Road,228,3.8,400.0
+Dazu Momoz,"Near SNN Raj Serenity, Besides Medplus Off Begur Main Road, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Kiosk,"Tibetan, Momos",Delivery,Bannerghatta Road,8,3.1,200.0
+Guru Greens,"97/2, Gottigere, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Casual Dining,"North Indian, Chinese",Delivery,Bannerghatta Road,89,3.8,550.0
+Brewz Coffee,"80, 2nd Main,1st Cross, 2nd Stage, BTM, Bangalore",Yes,No,BTM,Cafe,Cafe,Delivery,Bannerghatta Road,61,3.0,650.0
+D View Cafe,"1318, Near Bangalore Central, 2nd Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,"Cafe, Quick Bites","Cafe, Italian, Chinese, Beverages",Delivery,Bannerghatta Road,507,4.0,1000.0
+Namana Garden,"910, 5th Cross Road, Vijaya Bank Layout, Bilekahalli,BTM, Bangalore",No,No,BTM,Quick Bites,"North Indian, South Indian, Chinese, Street Food",Delivery,Bannerghatta Road,75,2.6,400.0
+Bun Town,"458, 2nd Main Road, Mico Layout, Stage 1, BTM, Bangalore",Yes,No,BTM,"Cafe, Bakery","Cafe, Bakery",Delivery,Bannerghatta Road,203,4.0,500.0
+The Cake Ville,"15, Ground Floor, MN Complex, Near Brigade Millenium, 7th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,"Bakery, Quick Bites","Bakery, Desserts, Fast Food",Delivery,Bannerghatta Road,18,3.2,300.0
+Cakes And Crumbs,"690/A, 14th Main, 15th Cross, 2nd Phase, JP Nagar, Bangalore",No,No,JP Nagar,Dessert Parlor,Bakery,Desserts,Bannerghatta Road,8,3.4,350.0
+Just Bake,"10, Ground Floor, Arakere Gate, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Bakery,"Bakery, Desserts",Desserts,Bannerghatta Road,46,3.2,400.0
+Nagas,"Kitchens@, No. 19, 35/4, 24th Main, JP Nagar 7th Phase, Puttenahalli, Bangalore",Yes,No,JP Nagar,Quick Bites,Andhra,Delivery,Bannerghatta Road,10,3.1,300.0
+Taste Of Kolkata,"32/9, Near Mahadeshwara Layout Bus Stop, 16th Main, 15th Cross, 2nd Stage, BTM, Bangalore",Yes,No,BTM,Quick Bites,"Bengali, Chinese, Rolls",Delivery,Bannerghatta Road,59,3.1,400.0
+Food Feast Multicusine Restaurant,"5, 1st Floor, Opposite Sana Supermarket, Vijaya Enclave, Vijaya Bank Layout, Bilekhalli, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"North Indian, Chinese, Hyderabadi",Delivery,Bannerghatta Road,16,3.3,600.0
+Jaganath Restaurant And Hotel,"634, Near Delmia Circle, 13th Cross, 8th Main, 2nd Stage, JP Nagar, Bangalore",No,No,JP Nagar,Quick Bites,North Indian,Dine-out,Bannerghatta Road,8,3.2,300.0
+World of Waffles,"4, South End B Road, 9th Block, JP Nagar, Bangalore",Yes,No,JP Nagar,Dessert Parlor,Desserts,Delivery,Bannerghatta Road,178,3.9,400.0
+Halli Sogasu,"9/10/9 2nd Floor, Opposite SBI Bank, DLF Road, Bhagyalakshmi Avenue, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Casual Dining,"South Indian, Andhra",Delivery,Bannerghatta Road,15,3.0,600.0
+Guru Greens,"97/2, Gottigere, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Casual Dining,"North Indian, Chinese",Dine-out,Bannerghatta Road,89,3.8,550.0
+JP Fish Land,"35, 16th Main Road, Near Nico Layout, 2nd stage, BTM Bangalore",Yes,No,BTM,Quick Bites,Seafood,Dine-out,Bannerghatta Road,24,3.6,300.0
+Nammura Donne Biriyani,"117/1, A, 7th main 11cross, Vijaya Bank Layout, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,Biryani,Dine-out,Bannerghatta Road,5,3.2,300.0
+Ishta Cafe,"26/2, Dodda Kammanahalli, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Pizza, South Indian, Healthy Food",Delivery,Bannerghatta Road,63,3.9,200.0
+Kolkata Famous Kati Roll,"8, 24th Main, Opposite Royal School, Phase 5, JP Nagar",Yes,No,JP Nagar,Quick Bites,"Rolls, Chinese",Delivery,Bannerghatta Road,11,3.5,200.0
+Daniyal's,"NS Palya, Stage 2, BTM Layout, Bangalore",Yes,No,BTM,Quick Bites,"North Indian, Biryani, Mughlai, Kebab",Delivery,Bannerghatta Road,41,3.1,800.0
+Warm Oven,"1, 7th Main Rd, NS Palya, Stage 2, BTM 2nd Stage, Bengaluru, Karnataka",Yes,No,BTM,Bakery,"Bakery, Desserts",Delivery,Bannerghatta Road,32,3.9,500.0
+Limra Hotel,"1,15th Cross, 29th Main, Opposite BTM Park, Stage 2, BTM, Bangalore",Yes,No,BTM,Quick Bites,"Chinese, North Indian",Dine-out,Bannerghatta Road,26,3.3,300.0
+Aramane Donne Biriyani,"749, 7th Cross 14th Main, 2nd Stage, BTM, Bangalore",Yes,No,BTM,Quick Bites,"Biryani, Fast Food",Delivery,Bannerghatta Road,189,3.9,300.0
+Bake-ooh,"973, 6th Cross, Vijaya Bank Layout, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,"Takeaway, Delivery",Bakery,Desserts,Bannerghatta Road,17,3.7,350.0
+Kuttanad,"25/26,1st Cross, Beside IIMB, Bilekahalli, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Kerala, South Indian",Dine-out,Bannerghatta Road,140,3.6,200.0
+Baskin Robbins,"Ground Floor, Gopalan Innovation Mall, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Dessert Parlor,"Ice Cream, Desserts",Desserts,Bannerghatta Road,22,3.6,250.0
+Spar Refresh,"Ground Floor,Vega City Mall, Bannerghatta Road, Bengaluru",No,No,Bannerghatta Road,Food Court,"North Indian, South Indian, Pizza",Dine-out,Bannerghatta Road,5,3.4,300.0
+Funky Punjab,"123(2), 24th Main, 5th Phase, Opposite To Royal High School, JP Nagar, Bangalore",Yes,No,JP Nagar,Casual Dining,"North Indian, Chinese",Dine-out,Bannerghatta Road,407,3.9,500.0
+Tastte!!,"Shop 31, Ground Floor, R R Complex, Begur Hulimavu Road, Opposite Village Hypermarket, Akshay Nagar, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Biryani, North Indian, Chinese",Delivery,Bannerghatta Road,21,3.7,450.0
+Desi Wok,"251/1009, Near Vijaya Bank Layout, Bilekahalli, 4th Stage, BTM, Bangalore",No,No,BTM,Quick Bites,"North Indian, Chinese",Dine-out,Bannerghatta Road,76,2.7,500.0
+Shiv Sai,"Near Meenakshi Mall, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,North Indian,Delivery,Bannerghatta Road,4,3.2,400.0
+Multi Cakes,"1065, 13th Cross, 6th Main, Kodichikanahalli, Vijay Bank Colony, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Bakery,"Bakery, Desserts",Delivery,Bannerghatta Road,9,3.0,200.0
+Krishna Vaibhava,"No 5, BTM 2nd Stage,beside Indian oil petrol pump, Bangalore",Yes,No,BTM,Casual Dining,"North Indian, South Indian",Delivery,Bannerghatta Road,40,3.5,350.0
+Santrupti Sagar,"41, Hulimavu Gate, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"South Indian, Fast Food, North Indian",Dine-out,Bannerghatta Road,34,2.9,300.0
+Shree Udupi Grand,"N Pramil & Amith Complex, Rajiv Gandhi Road, Jaraganahalli, Kanakapura Road, Bangalore",Yes,No,Kanakapura Road,Casual Dining,"South Indian, Chinese, North Indian",Delivery,Bannerghatta Road,17,3.5,450.0
+Sweet Truth,"69/1, Gowreesha Complex, Opposite Ananda Valmart Apartment, Doddakammanahalli, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Bakery,"Bakery, Desserts",Delivery,Bannerghatta Road,33,3.7,500.0
+Vaathsalya Millet Cafe,"277, 15th Cross, 21 Main, Outer Ring Road, JP Nagar 5th Phase, JP Nagar, Bangalore",Yes,Yes,JP Nagar,Casual Dining,"Healthy Food, South Indian",Delivery,Bannerghatta Road,293,4.1,500.0
+Polar Bear,"01, 100 Feet Ring Road, 1st Phase, 2nd Stage, BTM, Bangalore",Yes,No,BTM,"Takeaway, Delivery","Desserts, Ice Cream",Delivery,Bannerghatta Road,20,3.9,300.0
+Mealer.in,"175-176, Dollars Colony, Phase 4, JP Nagar, Bangalore",Yes,No,JP Nagar,Delivery,"North Indian, Biryani",Delivery,Bannerghatta Road,205,4.0,450.0
+Daniyal's,"NS Palya, Stage 2, BTM Layout, Bangalore",Yes,No,BTM,Quick Bites,"North Indian, Biryani, Mughlai, Kebab",Dine-out,Bannerghatta Road,41,3.1,800.0
+Soup Station,"172/1, Vega City Mall, Floor 3, Food Court, Beside, Srinivas Industrial Estate, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,Continental,Delivery,Bannerghatta Road,9,3.6,250.0
+Vaho Kafe & Pressery,"227,Sitaram Complex, Bilekahalli,opp to IIM-B, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Cafe,"Cafe, Healthy Food, Asian, Italian, North Indian, Biryani, Juices",Dine-out,Bannerghatta Road,124,3.9,500.0
+Hyderabad Biryaani House,"Arakere Gate, Next to HSBC, Opposite Reliance Mart, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Casual Dining,"Biryani, North Indian, Chinese",Delivery,Bannerghatta Road,794,3.6,550.0
+Upahara Bhavan,"1, Gottigere Main Road, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"South Indian, North Indian, Chinese",Delivery,Bannerghatta Road,55,3.8,300.0
+Bread Crumbs Bakery,"989, Ambika Corner, DC Road, Off Bannerghatta Road, Bilekahalli, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Bakery,"Desserts, Bakery",Desserts,Bannerghatta Road,164,4.0,250.0
+Churchill's,"37/953, 2nd Floor, 24th Main, Above HDFC Bank, 2nd Phase, JP Nagar, Bangalore",Yes,Yes,JP Nagar,"Casual Dining, Pub","North Indian, Continental",Delivery,Bannerghatta Road,1403,4.1,1100.0
+Shree Guru Raghavendra Chats Chintamani Special,"130/133, Aragini Comforts, 2nd Cross, Pai Layout, Hulimavu, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Street Food, Fast Food",Delivery,Bannerghatta Road,26,3.6,200.0
+Gowdru Mane Oota,"33rd Main Road, KR Layout, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"South Indian, Andhra",Dine-out,Bannerghatta Road,80,3.7,400.0
+Bikaner Jn,"62, 24th Main, 7th Cross, 2nd Phase, Opposite to R V Dental College, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,Rajasthani,Delivery,Bannerghatta Road,85,3.9,300.0
+Chaat Junction,"Durga Complex, Central Excise Layout, Phase 2, Tejaswini Nagar, Dodda Kamanahalli Area, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,Street Food,Delivery,Bannerghatta Road,49,3.7,200.0
+Five Star Chicken,"18th Cross road, 5th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"Burger, Fast Food, Roast Chicken, Finger Food",Dine-out,Bannerghatta Road,62,3.9,300.0
+Mango Greens,"99/4, Nataraja Layout, 7th Phase, JP Nagar, Bangalore",No,Yes,JP Nagar,Casual Dining,"North Indian, Continental, Chinese",Delivery,Bannerghatta Road,49,3.9,900.0
+Brundhavana Pure Veg,"83, Kothnur Main Road, Rajathadri Layout, 7th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Casual Dining,"South Indian, North Indian, Chinese, Beverages",Delivery,Bannerghatta Road,98,3.7,500.0
+Nandi Bidadi Thatte Idli,"121/1, Kothanur Main Road, 7th Phase, JP Nagar, Bangalore",No,No,JP Nagar,Quick Bites,South Indian,Dine-out,Bannerghatta Road,33,2.9,100.0
+Trippy Paradise,"Sai Plaza, 7th Cross Road, 2nd Stage, BTM, Bangalore",Yes,No,BTM,Cafe,Cafe,Delivery,Bannerghatta Road,59,2.6,900.0
+Akshaya Donne Biriyani,"1, Nayak Layout Gate, B.K. Circle, 8th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"Biryani, South Indian, Kebab",Delivery,Bannerghatta Road,38,3.1,300.0
+Panchami Garden,"56/1, Next to Airtel Office, Stage 1, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"South Indian, North Indian",Dine-out,Bannerghatta Road,56,3.5,400.0
+Amma's Pastries,"15, Ground Floor, 24th Main Road, JP Nagar, Bangalore",No,No,JP Nagar,Dessert Parlor,Desserts,Desserts,Bannerghatta Road,11,3.6,400.0
+RSS Donne Biryani,"479/496/A, 2nd Block, BTM 6th Stage,Arekere, BTM, Bangalore",Yes,No,BTM,Quick Bites,Biryani,Delivery,Bannerghatta Road,58,3.3,300.0
+Bawarchi Inn,"1, 1st Floor, BTM Complex, 9th Main Road, 1st Stage, BTM, Bangalore",Yes,No,BTM,Casual Dining,"North Indian, Biryani, Andhra, Chinese",Delivery,Bannerghatta Road,140,3.1,600.0
+Namma Halli Jonne Biryani,"Shop 1, Site 23/4, Chamundeshwari Complex, Chamundeshwari Layout, Shanthinikethan Main Road, Arekere, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,Biryani,Dine-out,Bannerghatta Road,4,3.3,300.0
+Prasiddhi Food Corner,"25, 9th Cross, 34th Main, ITI Layout, 1st Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"Fast Food, North Indian, South Indian",Delivery,Bannerghatta Road,170,3.7,200.0
+Kalpavruksha,"173, Bannerghatta Main Road, Stage 2, Bilekahalli, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"South Indian, North Indian",Delivery,Bannerghatta Road,99,3.9,300.0
+Bean D'er Cafe,"82, 3rd Floor, Sai Shree Building, Opposite Nilgiris Supermarket, Gottigere Kengeri Road, 8th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"Tamil, Fast Food",Delivery,Bannerghatta Road,8,3.5,250.0
+Chulha Chauki Da Dhaba,"13, 7th Cross, 2nd Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Casual Dining,North Indian,Delivery,Bannerghatta Road,2350,4.2,800.0
+Kanti Sweets,"16, 7th Phase, RBI Layout, Puttenahalli, JP Nagar, Bangalore",Yes,No,JP Nagar,Sweet Shop,"Mithai, Street Food",Delivery,Bannerghatta Road,182,4.0,400.0
+Pizza Hut,"8, Arikere Gate, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,Pizza,Dine-out,Bannerghatta Road,204,2.4,750.0
+Nandhini Paradise,"726/A, 24th Main Road, 6th Phase, JP Nagar, Bangalore",No,No,JP Nagar,Casual Dining,North Indian,Delivery,Bannerghatta Road,915,3.8,600.0
+Delhi Biryani Cafe,"1059/1, 16th Main, 16th Cross, Mico layout, 2nd Stage, BTM, Bangalore",Yes,No,BTM,Quick Bites,"North Indian, Biryani",Delivery,Bannerghatta Road,10,3.5,250.0
+Agarwal Food Service,"54, 5th Cross, Thayappa Garden, Devarachikkanahalli Main Road, Bilekahalli, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Delivery,"North Indian, Chinese, Biryani",Delivery,Bannerghatta Road,265,3.8,400.0
+Bangalir Rannaghar,"DLF City Road, Near Sai Baba Temple, Arekere, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"Bengali, North Indian, Chinese",Dine-out,Bannerghatta Road,58,2.9,250.0
+Five Star Chicken,"116/1, Devarchikkanahalli Road, Bilekahalli, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Fast Food, Burger",Dine-out,Bannerghatta Road,100,3.2,250.0
+Onesta,"Site 15, 15th Cross, 100 Feet Road, 4th Phase, JP Nagar, Bangalore",Yes,Yes,JP Nagar,"Casual Dining, Cafe","Pizza, Cafe, Italian",Dine-out,Bannerghatta Road,4381,4.4,600.0
+Paratha Junction,"520, Opposite Vijaya Bank, 1st Main, Arekere, MICO Layout, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"North Indian, Chinese",Dine-out,Bannerghatta Road,158,2.4,300.0
+Tangra Indo - Chinese Cuisine,"4th Floor, Food Court, Bangalore Central Mall, 9th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Food Court,"Chinese, Thai",Delivery,Bannerghatta Road,29,3.6,400.0
+New Karawali Lunch Home,"11/2, Arakera Main Road, Arakera Gate, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,Mangalorean,Delivery,Bannerghatta Road,20,3.5,350.0
+Bhojon Tripti,"E/1/145 BTS layout, Arekere, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Bengali, North Indian",Delivery,Bannerghatta Road,24,2.9,300.0
+SLV Kabab Centre,"288, NS Palya, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"Biryani, Fast Food",Dine-out,Bannerghatta Road,4,3.2,100.0
+Flavorsome Bakes,"Arjun Aura Apartment, Vijaya Bank Layout, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,"Takeaway, Delivery","Bakery, Desserts",Delivery,Bannerghatta Road,93,4.0,800.0
+Velvet Kitchen,"Shop 4 & 5, Vajrappa Building , Shantiniketan Main Road, Arekere, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Casual Dining,"North Indian, Chinese",Dine-out,Bannerghatta Road,15,3.5,600.0
+Skytouch Le Cafe,"724, 3rd Floor, RBI Layout, Rini Pearl, Opposite E.K. Retail, 7th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Cafe,"Cafe, Italian, Desserts",Delivery,Bannerghatta Road,127,3.7,700.0
+Fresh Kitchen,"No.16/30, Ground Floor, NS Palya, Bannerghatta Main Road, BTM layout, Bangalore",Yes,No,Bannerghatta Road,Casual Dining,"North Indian, Chinese",Delivery,Bannerghatta Road,13,3.4,600.0
+Hot Burg,"Arakere Gate, Opposite Reliance Mart, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Fast Food, Juices",Delivery,Bannerghatta Road,51,3.5,200.0
+Malhar Maharashtrian Cuisine,"16, Survey Number 13, Omkar Nagar, Arekere, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Casual Dining,Maharashtrian,Dine-out,Bannerghatta Road,101,4.0,500.0
+Food Ka Masti,"Shop E 1 / 146, G P Rajarantham Road, BTS Layout, Arekere Near Goverenment Hospital, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Delivery,"North Indian, Chinese, South Indian",Delivery,Bannerghatta Road,45,3.2,400.0
+D2V Cafe,"173/218, GF, Opposite Ranka Colony, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Cafe,Cafe,Cafes,Bannerghatta Road,13,3.6,700.0
+Bikaneri Sweets,"86, 5th Main Road, Arekere MICO Layout 2nd stage, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Sweet Shop,"Mithai, Street Food",Delivery,Bannerghatta Road,19,3.4,250.0
+Swad Restaurant,"House 86, Ground Floor 3rd cross 1st Main N.S. Palya, Behind Shoppers Stop, BTM Layout, BTM 2nd stage Bangalore",Yes,No,BTM,Casual Dining,"Chinese, North Indian",Dine-out,Bannerghatta Road,115,3.7,550.0
+Cupcake Bliss,"1, 7th Main Road, NS Palya, Stage 2, BTM, Bangalore",Yes,No,BTM,Delivery,Bakery,Delivery,Bannerghatta Road,9,3.5,250.0
+Bikaneri Sweets,"86, 5th Main Road, Arekere MICO Layout 2nd stage, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Sweet Shop,"Mithai, Street Food",Desserts,Bannerghatta Road,19,3.4,250.0
+Upahara Darshini,"Opposite Bangalore Central Mall, 9th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"South Indian, North Indian, Chinese",Delivery,Bannerghatta Road,167,4.0,400.0
+Krishna Vijayashree,"Sir M Visveswaraya Road, Nyanappana Halli, Hulimavu",Yes,No,Bannerghatta Road,Casual Dining,"Biryani, North Indian, Chinese",Delivery,Bannerghatta Road,13,3.5,700.0
+Restro Cafe,"1092, Murudewar Building,4th Floor,Opposite Mega Mart,9th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Cafe,Cafe,Delivery,Bannerghatta Road,30,3.8,400.0
+BIB - Breakfast in the Box,"52, 1st Floor, 3rd Cross, Omkar Nagar Arkere Gate, Near Reliance Store, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Delivery,"American, Sandwich",Delivery,Bannerghatta Road,84,3.8,600.0
+Delight Food,"10, Near Jayadeva Signal, Oppoite SBI ATM, 100 Feet Ring Road, 2nd Stage, BTM, Bangalore",Yes,No,BTM,Casual Dining,"Andhra, Chinese, Biryani",Delivery,Bannerghatta Road,171,2.6,450.0
+Litti Twist,"No 43, 7th Main Road, NS Palaya, BTM 2nd Stage, BTM, Bangalore",Yes,No,BTM,Quick Bites,"North Indian, Bihari",Dine-out,Bannerghatta Road,465,4.2,300.0
+Asharfilal,"No 19/3C, Next to Krishna Kuteera Restaurant ,Avani Shringeri Nagar, Near Nano Hospital, Begur Hobli, Bangalore, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Dessert Parlor,Desserts,Delivery,Bannerghatta Road,10,3.5,150.0
+Laddoos,"799, 7th Cross Road, 2nd Stage, Near Fooddays, BTM, Bangalore",Yes,No,BTM,"Quick Bites, Dessert Parlor","North Indian, Street Food, Mithai",Delivery,Bannerghatta Road,276,3.4,250.0
+Tandoor Garden,"5, 100 Feet Ring Road, Opposite Reliance Fresh, 1st Stage, BTM, Bangalore",Yes,No,BTM,Quick Bites,"North Indian, Chinese, Kebab",Delivery,Bannerghatta Road,70,3.6,350.0
+The Chervil,"11-12/49, First Floor, 14th Main, Puttenahalli Road, Kothnur Main Road, Beside Brigade Millenium, 7th Stage, JP Nagar, Bangalore",Yes,No,JP Nagar,Casual Dining,"North Indian, Continental",Dine-out,Bannerghatta Road,230,4.2,1000.0
+Subway,"Radha Krishna Towers, Opposite IIM-B Main Gate, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Salad, Fast Food",Dine-out,Bannerghatta Road,167,3.2,600.0
+KC Das- Sweet World,"54/48, Shivani Building, Next to IBP Petrol Pump, 7th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,"Sweet Shop, Quick Bites","Mithai, Street Food",Delivery,Bannerghatta Road,5,3.3,200.0
+TGI Fridays,"4th Floor, Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",Yes,Yes,Bannerghatta Road,Lounge,"American, Burger, Italian, Steak",Delivery,Bannerghatta Road,1337,3.9,1700.0
+Shiv Sagar,"4th Floor, Royal Meenakshi Mall, Hulimavu, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Quick Bites,"South Indian, Street Food",Delivery,Bannerghatta Road,85,2.9,250.0
+WAFL,"3rd Floor, Food Court, Vega City Mall, Srinivas Industrial Estate, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Food Court,"Cafe, Fast Food, Desserts, Beverages",Desserts,Bannerghatta Road,40,3.9,400.0
+Udupi Thaja Thindi,"Shop 26, Opposite Gopalan Innovation Mall, 2nd Stage, Bannerghatta Main Road, BTM, Bangalore",Yes,No,BTM,Quick Bites,"North Indian, South Indian, Chinese, Fast Food",Delivery,Bannerghatta Road,42,2.9,250.0
+Cafe Arabica,"4, 1st Cross, Christ School Road, Bhavani Layout, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,"Cafe, Bakery","Cafe, Bakery",Delivery,Bannerghatta Road,69,3.8,700.0
+Biryani Magic,"16th Main Road, BTM, Bangalore",Yes,No,BTM,Quick Bites,"North Indian, Biryani",Delivery,Bannerghatta Road,31,3.5,300.0
+Bhavani Upahara,"1st Cross Road, Panduranga Nagar, Bannerghatta Road, Bengaluru",Yes,No,Bannerghatta Road,Quick Bites,South Indian,Delivery,Bannerghatta Road,9,3.3,250.0
+Zhangs Classic,"16, Above Dominos Pizza, Arakere Gate, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Casual Dining,"Italian, Chinese, Japanese",Delivery,Bannerghatta Road,170,2.6,600.0
+Oye Amritsar,"72, 2nd Floor, Next to Max & Crossword, 3rd Phase, Inner Ring Road, JP Nagar, Bangalore",Yes,Yes,JP Nagar,Casual Dining,North Indian,Buffet,Bannerghatta Road,756,3.8,1000.0
+Thalassery Food Court,"389, Opposite to Anand Valmar Apartments, Near Maruthi Dental College, Bannerghatta Road, Bangalore",No,No,Bannerghatta Road,Casual Dining,"Kerala, North Indian, Chinese",Dine-out,Bannerghatta Road,4,3.1,500.0
+Big Mishra Pedha,"116, Royal Residency, Near Sai Baba Temple, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Sweet Shop,"Mithai, Desserts, Fast Food",Delivery,Bannerghatta Road,7,3.3,300.0
+Banashankari Nati Style,"2, Puttenahalli Main Road , Government School, 7th Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,South Indian,Delivery,Bannerghatta Road,8,3.6,300.0
+Punjabites,"1260 SY 35/4 SJR Tower's, JP Nagar 7th Phase, 24th Main Puttanhalli, JP Nagar, Bangalore",Yes,No,JP Nagar,"Takeaway, Delivery","North Indian, Charcoal Chicken",Delivery,Bannerghatta Road,5,3.7,400.0
+Danapani,"1-8, RBI Layout, 7th Phase, JP Nagar, Bangalore",No,No,JP Nagar,Casual Dining,"North Indian, South Indian, Chinese",Dine-out,Bannerghatta Road,59,3.8,400.0
+Khan Saheb Grills and Rolls,"663/52, 34th Cross, 11th Main, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Fast Food, Rolls",Dine-out,Basavanagudi,134,3.9,350.0
+South Kitchen,"1st Main Road, Near Katte Balaga, NR Colony, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,South Indian,Dine-out,Basavanagudi,275,4.3,100.0
+Jcubez,"1431, 22nd Cross, Near BDA Complex, 2nd Stage, Banashankari, Bangalore",No,Yes,Banashankari,Lounge,Finger Food,Drinks & nightlife,Basavanagudi,977,3.8,1300.0
+SGS Non Veg - Gundu Pulav,"57, Kadirenahalli Road, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"Biryani, Fast Food",Delivery,Basavanagudi,101,3.8,400.0
+South Kitchen,"1st Main Road, Near Katte Balaga, NR Colony, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,South Indian,Delivery,Basavanagudi,275,4.3,100.0
+Coffee Tindi,"27th Cross Rd, Banashankari Stage II, Banashankari, Bangalore",Yes,No,Banashankari,"Cafe, Quick Bites","Cafe, South Indian",Delivery,Basavanagudi,75,3.8,200.0
+Pizza Hut,"2469, 21st Cross, Near BDA Complex, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"Pizza, Fast Food",Delivery,Basavanagudi,693,3.8,750.0
+Take A Break,"46, K.H Road, Opp Bmtc Bus Stand, Shanti Nagar, Bangalore",No,No,Shanti Nagar,Casual Dining,North Indian,Delivery,Basavanagudi,7,3.4,600.0
+1980s Games Cafe,"63, 1st Floor, Kanakapura Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Cafe,"Cafe, Fast Food",Dine-out,Basavanagudi,58,3.4,400.0
+Happy Chopsticks,"3/1, Bugle Rock Road, Gandhi Bazaar, Basavanagudi",Yes,No,Basavanagudi,Quick Bites,"Chinese, Fast Food",Dine-out,Basavanagudi,18,3.6,300.0
+Kesar Rajasthani Parotha Point,"Old Market, V V Puram, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"North Indian, Rajasthani",Dine-out,Basavanagudi,34,3.9,200.0
+Karavali Fish Center,"715, Hari Complex, 22nd Cross KR Road, 2nd stage, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,"Mangalorean, Chinese",Dine-out,Basavanagudi,10,3.4,300.0
+Bhukkhad Baba,"7th Cross, 6th Main, Shakambhari Nagar, Sarakki, JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"North Indian, Beverages",Delivery,Basavanagudi,125,3.7,250.0
+Mint and Mustard,"172, Ground Floor, Near Jain College, VV Puram, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Casual Dining,"North Indian, Chinese",Delivery,Basavanagudi,232,4.0,750.0
+Java City,"63/2, 8th Main, 18th Cross, 3rd Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Cafe,"Cafe, American, Pizza",Cafes,Basavanagudi,157,2.6,450.0
+Al-Madina Restaurant,"127, NR Road, City Market, Bangalore",No,No,City Market,Casual Dining,"Arabian, North Indian, Chinese, Kerala",Dine-out,Basavanagudi,22,3.4,400.0
+Cafe Vivacity,"2303, 21st Cross, K R Road, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Cafe,Cafe,Delivery,Basavanagudi,90,3.8,650.0
+Cake Art,"1/A, 3rd Main, 7th Cross, Kattebalag, Narasimharaja Colony, Basavanagudi, Bangalore",No,No,Basavanagudi,"Bakery, Quick Bites",Bakery,Delivery,Basavanagudi,15,3.5,400.0
+Namma Biryani,"1111, Near KIMS, 30th Main Road, Siddanna Layout, Stage 2, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"Biryani, Chinese, North Indian",Dine-out,Basavanagudi,24,3.6,250.0
+Swadesh Tadka,"101, Manjunatha Complex, Near BDA Complex, 22nd Main, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"North Indian, Chinese, Beverages",Dine-out,Basavanagudi,179,3.5,600.0
+Vennela Andhra Meals,"54, Sri Durga Avenue, 3rd Floor, 33rd Cross Road, Opp. Navarathan, Jewe, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,Andhra,Dine-out,Basavanagudi,23,3.0,400.0
+Namma Brahmin's Idli,"30th Cross, 8th Main, Near Jain Temple, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,South Indian,Delivery,Basavanagudi,34,3.6,100.0
+Fitbakes,"Jayanagar, Bangalore",No,No,Jayanagar,Delivery,"Bakery, Healthy Food",Delivery,Basavanagudi,13,3.6,400.0
+Swadd Kitchen,"32/2, DVG Road, Basavanagudi, Karnataka, Bangalore",Yes,No,Basavanagudi,Casual Dining,"North Indian, Fast Food",Delivery,Basavanagudi,4,3.4,500.0
+Pure & Natural,"Near National College, 7th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,"Fast Food, Continental, Beverages, Salad, Healthy Food",Dine-out,Basavanagudi,211,3.9,500.0
+Swadd Kitchen,"32/2, DVG Road, Basavanagudi, Karnataka, Bangalore",Yes,No,Basavanagudi,Casual Dining,"North Indian, Fast Food",Dine-out,Basavanagudi,4,3.4,500.0
+Alfa Family Restaurant,"44/3, 10th Cross, 1st Main, Arekempanahalli, Someshwari Nagar, Wilson Garden, Bangalore",No,No,Wilson Garden,Casual Dining,"North Indian, Arabian, Chinese",Delivery,Basavanagudi,27,3.0,400.0
+Sri Krishna Veg,"28/12, Kanakapura Road Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,South Indian,Delivery,Basavanagudi,4,3.5,100.0
+1947,"62, The High Street Building, 5th Floor, 4T Block, Opposite Vijaya College, Jayanagar, Bangalore",No,Yes,Jayanagar,Casual Dining,"North Indian, Chinese",Dine-out,Basavanagudi,2359,4.1,950.0
+Paratha Merchant,"31, 2nd Cross, Teacher's Colony, JP Nagar Post, Dayanand College Road, Kumaraswamy Layout, Bangalore",Yes,No,Kumaraswamy Layout,Quick Bites,North Indian,Delivery,Basavanagudi,39,3.1,300.0
+Biryani Paradise,"72/2, Lalbhag Main Gate, Shanti Nagar, Bangalore",No,No,Shanti Nagar,Quick Bites,"Biryani, Fast Food",Dine-out,Basavanagudi,6,3.4,400.0
+Revoli Hotel,"88, K H Road, Opposite Shanti Nagar Bus Stop, Shanti Nagar, Bangalore",No,No,Shanti Nagar,Casual Dining,"South Indian, Chinese",Dine-out,Basavanagudi,21,3.5,450.0
+Kollapuri's,"1, Corporation Market, Gandhi Bazar, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"South Indian, Mangalorean",Delivery,Basavanagudi,206,3.9,450.0
+Lassi Corner,"1304, Kathriguppe Main Road, Ashok Nagar, NR Colony, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Beverage Shop,"Beverages, Ice Cream",Delivery,Basavanagudi,107,3.7,150.0
+Starlite Bakery & Fastfood,"25/4, 7th Block K.R Road, 8TH Cross Opposite, HDFC Bank, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"North Indian, Chinese, Rolls, Bakery, Arabian, Charcoal Chicken, Desserts",Dine-out,Basavanagudi,23,3.7,300.0
+Enerjuvate Studio & Cafe,"Shop 547, 32nd C Cross, 9th Main, 4th Block, Jayanagar, Bangalore",No,Yes,Jayanagar,Cafe,"Cafe, Continental, Beverages, Healthy Food, Desserts, Sandwich, Pizza, Salad",Delivery,Basavanagudi,731,4.2,800.0
+Kaulige Millet Corner,"201, 4th Main Road, Next to National Lassi Bar, Chamrajapet, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Healthy Food, South Indian",Delivery,Basavanagudi,4,3.3,150.0
+Cane-O-La,"44/1, Bull Temple Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,Juices,Delivery,Basavanagudi,61,3.8,100.0
+Chai Kraft,"146, 6th C Main Road, 1st Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Beverage Shop,"Beverages, Tea",Delivery,Basavanagudi,30,4.1,100.0
+The Royal Corner - Pai Viceroy,"Pai Viceroy, 1504, 16th Cross, 9th Main, 3rd Block, Jayanagar, Bangalore",Yes,Yes,Jayanagar,Casual Dining,"North Indian, Chinese",Dine-out,Basavanagudi,815,4.2,900.0
+Cafe Shuffle,"941, 3rd FLOOR, 21st Main, 22nd Cross, Banashankari 2nd stage, Opposite to BDA complex, Banashankari",Yes,Yes,Banashankari,Cafe,"Cafe, Italian, Continental",Cafes,Basavanagudi,150,4.2,600.0
+Chamarajpet Non Veg Restaurant,"75, 1st Main, 8th Cross, Chamrajpet, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"South Indian, Biryani",Dine-out,Basavanagudi,13,3.6,200.0
+Baisakhi,"160, Gandhi Bazar Main Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Casual Dining,North Indian,Dine-out,Basavanagudi,527,3.8,500.0
+Lassi Stop,"11,12, 80 Feet Road, Behind Reliance Fresh, Banashankri, Bangalore",Yes,No,Banashankari,"Beverage Shop, Quick Bites","Beverages, Fast Food, Juices",Dine-out,Basavanagudi,12,3.4,150.0
+Pin Me Down,"29, Tavakere Main Road, Behind Forum Mall, Koramangala, Bangalore",Yes,Yes,BTM,Casual Dining,"Continental, Mexican, Chinese, North Indian",Delivery,Basavanagudi,784,4.5,800.0
+50-50 EATING HOUSE,"23/1, 7th Cross, N R Colony, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"South Indian, Biryani",Dine-out,Basavanagudi,4,3.2,100.0
+Iyengar Bakery,"Next to Cool Joint, 4th Block, Jayanagar, Bangalore",No,No,Jayanagar,Bakery,Bakery,Desserts,Basavanagudi,44,3.7,200.0
+Sri Laxmi Venkateshwara Coffee Bar,"187, 16th Main, 24th Cross, 2nd Stage, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,South Indian,Dine-out,Basavanagudi,343,4.4,100.0
+My Tea House,"224/Y, 4th Phase, 7th Block, 100 Feet Ring Road, Near Kamakya Theatre, Banashankari, Bangalore",Yes,No,Banashankari,"Quick Bites, Cafe","Italian, Fast Food, Cafe, European",Delivery,Basavanagudi,62,3.6,600.0
+Sandwich Hub,"616/2, 31st Cross, 10th A Main Road, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Fast Food, Sandwich",Delivery,Basavanagudi,12,3.4,300.0
+Mystique Palate,"615/1, 10th C Main,32nd Cross Road ,Janardhan Mansion, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Chinese, Fast Food",Delivery,Basavanagudi,337,4.1,300.0
+Kidambi's Kitchen,"2465, 3rd Floor, Opposite BDA Complex, 24th Cross, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,South Indian,Delivery,Basavanagudi,52,3.5,300.0
+Burger King,"59/3, Ground & First Floor, West Anjaneya Temple Road, Ward 49, Gandhi Bazaar, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Burger, Fast Food, Beverages",Dine-out,Basavanagudi,157,4.0,600.0
+Bake and Juice,"1st Main, Sudugunda Palya, Near Srinivasa Theatre, BTM, Bangalore",Yes,No,BTM,Quick Bites,"Fast Food, Beverages",Delivery,Basavanagudi,15,3.5,400.0
+Smacznego,"2470, 21 Main Road, 25th Cross, Banashankari, Bangalore",Yes,No,Banashankari,Cafe,"Cafe, Mexican, Italian, Momos, Beverages",Dine-out,Basavanagudi,504,4.2,550.0
+Adda,"16.8th Cross, H Siddaiha Road, Sudamnagar, Shanti Nagar, Bangalore",No,No,Shanti Nagar,Quick Bites,South Indian,Delivery,Basavanagudi,5,3.3,300.0
+Paratha Junction,"35/24, PTG Complex, 11th Main Road, 46th Cross, 5th Block, Opposite Raghavendra Matha Temple, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"North Indian, Chinese",Delivery,Basavanagudi,395,3.2,300.0
+Sugar Rush,"186, 11th Main, 4th Cross, Hanumanthnagar, Banashankari, Bangalore",No,No,Banashankari,Bakery,"Bakery, Desserts",Delivery,Basavanagudi,39,3.8,300.0
+The Belgian Waffle Co.,"Shop 62, The High Street, 11th Main, 4th Block Jayanagar, Bangalore",Yes,No,Jayanagar,Dessert Parlor,"Desserts, Beverages",Desserts,Basavanagudi,152,3.8,350.0
+Cafe Ajfan,"Shop 66/1, 4th Block, Near Maiys Hotel, 33rd Cross Road, Jayanagar, Bangalore",Yes,No,Jayanagar,Cafe,"Cafe, Continental, Beverages",Delivery,Basavanagudi,261,4.2,700.0
+Parimala Sweets,"1142, 22nd Cross, 30th Main, Banashankari, Bangalore",No,No,Banashankari,Sweet Shop,"Mithai, Street Food",Desserts,Basavanagudi,14,3.5,200.0
+Udupi Sri Krishna Cafe,"24, 8th C Main, Behind Post Office, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,"North Indian, South Indian",Delivery,Basavanagudi,14,3.9,600.0
+Kedia's Fun Food,"6th C Main, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"North Indian, Street Food, Juices",Delivery,Basavanagudi,630,4.3,200.0
+Pavithra Restaurant,"Near 4th Block Bus Stand, 30th Cross Road, 4th Block, Jayanagar, Bangalore",No,No,Jayanagar,Quick Bites,"South Indian, North Indian, Chinese",Dine-out,Basavanagudi,133,3.4,300.0
+Kolkata King,"32, Khaleel Plaza, Opposite Vijaya Collage, RV Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Fast Food, Rolls",Delivery,Basavanagudi,6,3.4,300.0
+Just Shawarma,"35, 22nd Main Road, Opposite BDA Complex, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,Arabian,Dine-out,Basavanagudi,66,3.8,300.0
+Pop Hop,"68, 10th Main Road, 36th Cross, 5th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Dessert Parlor,"Ice Cream, Desserts",Delivery,Basavanagudi,204,4.1,300.0
+Thanco's Natural Ice Cream,"22, Govindappa Road Cross, 8 & 9, V C Plaza,Opp Mahila Bangle store,Above Dennys,DVG Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Dessert Parlor,"Ice Cream, Desserts",Delivery,Basavanagudi,69,3.6,450.0
+Udupi Ruchi,"31/1, Puttalingaiah Road, Second Stage, Bangalore, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"South Indian, North Indian, Chinese, Street Food",Delivery,Basavanagudi,57,3.9,200.0
+A2B Veg - Adyar Ananda Bhavan,"200, Next to Canara Bank, KG Road, Gandhi Bazaar, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Casual Dining,"South Indian, Fast Food, Street Food",Delivery,Basavanagudi,97,2.7,400.0
+Once Upon a Rooftop,"278/A, 9th Main Road, 4th Block, Jayanagar, Bangalore",No,Yes,Jayanagar,"Casual Dining, Bar","Pizza, Italian, Chinese, Thai",Dine-out,Basavanagudi,1278,4.3,1000.0
+Earth Plate Express,"Food Court, Central Shopping Mall, 45th Cross, 2nd Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Food Court,"Italian, Continental",Delivery,Basavanagudi,33,3.9,600.0
+The Krishna Grand,"1, Monotype, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"North Indian, South Indian, Chinese, Fast Food, Juices",Dine-out,Basavanagudi,888,3.9,750.0
+Karnataka Bhel House,"6, 2nd Main, 3rd Cross, Chamrajpet, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,Street Food,Delivery,Basavanagudi,449,4.1,100.0
+Ascharya Hotel,"Plot 62, Nanjappa Layout, Adugodi Main Road, Adugodi, Koramangala 5th Block, Bangalore",Yes,No,Koramangala 5th Block,Quick Bites,"Mangalorean, South Indian",Delivery,Basavanagudi,10,3.3,300.0
+Kickin Burger,"1839, 41st Cross, Putlanpalya, 9th Block, Jayanagar, Bengaluru",Yes,No,Jayanagar,Quick Bites,Fast Food,Delivery,Basavanagudi,22,3.1,400.0
+FreshMenu,"10, Stavyah Arcade, 3rd Floor 9th Main, Yarab Nagar Main Road, Banashankari, Bangalore",Yes,No,Banashankari,Delivery,"Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",Delivery,Basavanagudi,627,3.9,450.0
+New Prashanth Hotel,"43/2, 100 Feet Road, Kamakya Complex, 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"Biryani, North Indian, Seafood, Andhra",Delivery,Basavanagudi,388,3.9,650.0
+Karavali Family Restaurant,"13, 27th B Cross, 10th Main, Opposite BWSSB Water Tank, Geetha Colony, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,"Seafood, Biryani, South Indian, North Indian, Chinese",Delivery,Basavanagudi,90,3.5,500.0
+Beetle Juice Bar - Springs Hotel & Spa,"Springs Hotel & Spa, 19, H. Siddaiah Road, Off JC Road, Basavanagudi, Bangalore",No,Yes,Basavanagudi,Bar,Finger Food,Dine-out,Basavanagudi,64,3.7,2200.0
+Iceberg Icecreams,"23/1, Shop Street Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Dessert Parlor,"Desserts, Ice Cream",Delivery,Basavanagudi,43,4.0,250.0
+Shawarma Inc,"32, 22nd Cross, 22nd Main, 2nd Stage, Near BDA complex, Banashankari, Bangalore",Yes,No,Banashankari,Takeaway,"Rolls, Lebanese",Delivery,Basavanagudi,31,3.1,250.0
+Cafe Coffee Day,"1, SPC Complex, Bull Temple Road, Opposite BSNL Office, Gandhi Bazaar, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Cafe,"Cafe, Fast Food",Cafes,Basavanagudi,30,2.8,900.0
+J Spice,"632/A, 24th Cross, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"North Indian, Chinese",Delivery,Basavanagudi,59,3.8,750.0
+New Shanthi Sagar,"18, R V Road, South End Circle, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"South Indian, North Indian, Chinese, Street Food",Dine-out,Basavanagudi,51,2.7,600.0
+Roofnic,"5/1, 5th Main Road, Raghavendra Colony, Chamrajpet, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,Fast Food,Delivery,Basavanagudi,9,3.1,300.0
+Vinaya Cafe,"1576, East End Main Road, 9th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"South Indian, Street Food, Juices",Delivery,Basavanagudi,11,3.4,200.0
+Juice Junction Food Court,"54, Bull Temple Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Juices, South Indian, Chinese, Fast Food",Delivery,Basavanagudi,57,3.7,200.0
+Cake Art,"1/A, 3rd Main, 7th Cross, Kattebalag, Narasimharaja Colony, Basavanagudi, Bangalore",No,No,Basavanagudi,"Bakery, Quick Bites",Bakery,Desserts,Basavanagudi,15,3.5,400.0
+Maiyas,"459/30, 30th Cross, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"North Indian, South Indian, Fast Food, Juices",Delivery,Basavanagudi,1778,4.0,200.0
+Spice Elephant,"2nd Floor, 80 Feet Road, Near Big Bazaar, 6th Block, Kathriguppe, 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"Chinese, North Indian, Thai",Delivery,Basavanagudi,787,4.1,800.0
+As On Fire,"75, 21st Main Road, Siddanna Layout, 2nd Stage, Banashankari, Bangalore",Yes,No,South Bangalore,Food Truck,"Pizza, Fast Food, BBQ",Delivery,Basavanagudi,41,3.5,400.0
+Vinny's,"2467, 24th Cross, 2nd Stage, Banashankari, Bangalore",Yes,Yes,Banashankari,Casual Dining,"Pizza, Italian, Continental, Desserts",Delivery,Basavanagudi,2115,4.2,800.0
+Ganesh Grand,"91/1, Ganesh Mahal Building, Sirsi Road, Chamarajpet, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"South Indian, North Indian, Desserts",Delivery,Basavanagudi,30,3.7,300.0
+Srinagar Kabab Corner,"213, 13th Main, Srinagar, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,North Indian,Dine-out,Basavanagudi,10,3.4,250.0
+Chaatimes,"39, 3rd Main,4th Cross, Hanumanth Nagar, Near, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Street Food, Fast Food",Dine-out,Basavanagudi,142,3.9,200.0
+Vinny's,"2467, 24th Cross, 2nd Stage, Banashankari, Bangalore",Yes,Yes,Banashankari,Casual Dining,"Pizza, Italian, Continental, Desserts",Dine-out,Basavanagudi,2115,4.2,800.0
+Curry Leaves,"15, 1st Main, Kariyappa Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Casual Dining,"Andhra, North Indian, Chinese",Dine-out,Basavanagudi,176,4.1,800.0
+Coffee Bytes,"10th Main, Hanumanthanagar, 50 Feet Road, Phase 1, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,"Fast Food, South Indian",Dine-out,Basavanagudi,6,3.1,100.0
+Prems Graama Bhojanam,"234, 32 A Cross, 2nd Main Road, 7th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,South Indian,Delivery,Basavanagudi,322,4.3,400.0
+Brew Bakes,"586/51, 10th Cross, 7th Block, Jayanagar, Bangalore (Opp: Nethradhama Eye Hospital)",No,No,Jayanagar,Cafe,"Cafe, Continental, Italian",Cafes,Basavanagudi,13,3.4,550.0
+Kanti Sweets,"382/71 - 3, 11th Main Road, 3rd Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Mithai, Street Food",Delivery,Basavanagudi,148,3.9,400.0
+Vybhava,"35-1, Near Yediyur Lake, Kanakapura Road, Jayanagar, Bangalore",No,No,Jayanagar,Quick Bites,"South Indian, North Indian",Dine-out,Basavanagudi,39,3.8,250.0
+Swarga Ruchi,"65, Parvati Bhavan, Appu Rao Road, Chamaraj Pet, Chamarajpet, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,South Indian,Dine-out,Basavanagudi,12,3.3,200.0
+Smoke-A-Pot,"53, Second Floor, 9th Cross, 80 Feet Road, Sarakki Village, JP Nagar, Bangalore",Yes,No,JP Nagar,"Takeaway, Delivery","Biryani, North Indian, Rolls",Delivery,Basavanagudi,91,3.6,500.0
+Hotel Coronation,"132, Kalasipalyam Main Road, Opposite Ayyappa Temple, City Market, Bangalore",No,No,City Market,Quick Bites,"North Indian, Chinese, Kebab, Rolls",Delivery,Basavanagudi,5,3.3,350.0
+Tree Top,"Temple Tree Hotel, 3, 9th Cross, Wilson Garden, Bangalore",Yes,No,Wilson Garden,Casual Dining,"Continental, Chinese, North Indian, South Indian",Buffet,Basavanagudi,74,3.8,1000.0
+Nagarjuna Chimney,"21/22, 22nd Cross, 3rd Block, Jayanagar, Bangalore",No,No,Jayanagar,Casual Dining,"Andhra, Biryani",Delivery,Basavanagudi,920,4.0,600.0
+McDonald's,"15, Bull Temple Road, Next to HSBC Bank, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Burger, Fast Food",Delivery,Basavanagudi,276,3.6,500.0
+Roti Ghar,"17, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Casual Dining,"North Indian, Chinese, South Indian",Dine-out,Basavanagudi,750,3.9,500.0
+Revoli Hotel,"88, K H Road, Opposite Shanti Nagar Bus Stop, Shanti Nagar, Bangalore",No,No,Shanti Nagar,Casual Dining,"South Indian, Chinese",Delivery,Basavanagudi,21,3.5,450.0
+Ruchi's Corner,"186, 24th Cross, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,Fast Food,Dine-out,Basavanagudi,123,2.7,200.0
+Biriyani Mane,"1345, Southend Main Road, 9th Block JP NAGAR Bangalore, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,"Biryani, Chinese, North Indian",Delivery,Basavanagudi,158,3.7,700.0
+By 2 Coffee,"69, 6th Main Road, Appurao Road, Chamarajpet, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,South Indian,Dine-out,Basavanagudi,28,3.7,100.0
+Uphar Dharshni,"56, 8th Main, Jayanagar 4th Block, Bangalore",No,No,Jayanagar,Quick Bites,"South Indian, North Indian",Dine-out,Basavanagudi,15,3.6,150.0
+Vakulaa Veg Restaurant,"36, 12th Main, 27th Cross , 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"South Indian, North Indian",Dine-out,Basavanagudi,49,3.9,200.0
+Rustic Stove,"13, 32nd Cross, 7th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,"North Indian, South Indian, Biryani, Beverages",Dine-out,Basavanagudi,577,3.8,900.0
+Kababs N Biryani,"406, 2nd Cross, Vidyapeeta Layout, Banashankri, Bangalore",Yes,No,Banashankari,Quick Bites,South Indian,Delivery,Basavanagudi,22,3.4,200.0
+Burger King,"59/3, Ground & First Floor, West Anjaneya Temple Road, Ward 49, Gandhi Bazaar, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Burger, Fast Food, Beverages",Delivery,Basavanagudi,71,3.2,600.0
+Chung's Chinese Corner,"295, Sri Krishna Complex, 10th Main, 3rd Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,Chinese,Delivery,Basavanagudi,221,3.9,700.0
+The Yellow Chilli,"No ? 51 , 11th Main Road, Jayanagar 4 th Block, Bangalore",Yes,Yes,Jayanagar,Casual Dining,"North Indian, Mughlai, Biryani",Dine-out,Basavanagudi,584,3.8,1200.0
+Kabab Magic,"31, Opposite Vijaya College, RV Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"North Indian, Kebab, Chinese, Fast Food",Dine-out,Basavanagudi,1720,4.1,400.0
+Ugadi,"609, 10th A Main Road, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,"North Indian, Chinese, Biryani, Andhra, Mangalorean",Dine-out,Basavanagudi,177,2.9,700.0
+Great Indian Rolls,"Near Metro Station R.V.Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,Rolls,Delivery,Basavanagudi,4,3.3,100.0
+Mudpipe Cafe,"1, KDP Building, 4th Floor, Near Forum Mall, Above NEXA showroom, Hosur Road, BTM, Bangalore",Yes,Yes,BTM,Cafe,"Cafe, Continental, Burger",Delivery,Basavanagudi,1872,4.5,900.0
+Swadesh Tadka,"101, Manjunatha Complex, Near BDA Complex, 22nd Main, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Casual Dining,"North Indian, Chinese, Beverages",Delivery,Basavanagudi,179,3.5,600.0
+Mayuri,"20, J.C. Road, City Market Area, City Market, Bangalore",No,No,City Market,Casual Dining,"North Indian, Chinese",Dine-out,Basavanagudi,104,4.0,650.0
+World of Waffles,"4, South End B Road, 9th Block, JP Nagar, Bangalore",Yes,No,JP Nagar,Dessert Parlor,Desserts,Delivery,Basavanagudi,178,3.9,400.0
+Shri Vinayaka Ice N Juice,"14/38, Shivakrupa, 1st Model House Street, Near Nagasnadra Circle, DVG Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Beverages, Fast Food",Delivery,Basavanagudi,11,3.2,150.0
+Vidya Cafe,"1693/A 17th Main Road, Marenahalli, 2nd phase JP Nagar, Bangalore",Yes,No,JP Nagar,Quick Bites,"Burger, Fast Food, Desserts, Sandwich",Delivery,Basavanagudi,4,3.2,300.0
+Apsara Ice Cream,"146/C, 30th Cross, 6th C Main Road, Jayanagar, Bangalore",No,No,Jayanagar,Dessert Parlor,"Ice Cream, Desserts",Desserts,Basavanagudi,59,4.1,200.0
+Food Springs,"559, 32nd Cross, 10th A Main, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"South Indian, Chinese",Delivery,Basavanagudi,232,4.0,400.0
+New Banashankari Donne Biryani,"134, 9th Cross, 4th Main, Chamrajpet, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"Biryani, North Indian",Delivery,Basavanagudi,12,3.5,300.0
+J K Fish Land,"272, 14th Cross Road, Yediyur, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Seafood, Mangalorean",Delivery,Basavanagudi,35,3.6,300.0
+The Chaat Shop,"11/4, Old Market Road, V V Puram, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,Fast Food,Delivery,Basavanagudi,35,2.5,200.0
+Wamama,"2466, Bhaskar Grand Tower, 24th Cross, Opposite BDA Complex, Banashankari, Bangalore",Yes,Yes,Banashankari,Casual Dining,"Asian, Korean, Indonesian, Japanese, Chinese, Thai, Momos",Delivery,Basavanagudi,354,4.2,800.0
+Pizza Hut,"19, Mobas Towers, Bull Temple Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Pizza, Fast Food",Dine-out,Basavanagudi,142,2.9,750.0
+Lassi Shop,"742, 50 Feet Rd, Raghavendra Block, Banashankari 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Beverage Shop,"Beverages, Ice Cream, Fast Food",Delivery,Basavanagudi,45,3.5,300.0
+Udupi Grand,"49, South End Road, Nagasandra Circle, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"South Indian, North Indian, Chinese",Delivery,Basavanagudi,74,3.8,300.0
+Samskruti - Sanman Gardenia,"2, Ashoka Pillar Circle, 2nd Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,"North Indian, Chinese, South Indian",Delivery,Basavanagudi,139,4.1,550.0
+LIT Gastro Pub,"233, 4th Floor, 40th cross, 9th Main Road, 5th Block, Jayanagar, Bangalore",Yes,Yes,Jayanagar,Pub,"Chinese, Continental, Burger, Pizza",Delivery,Basavanagudi,197,3.8,1000.0
+Cafe Vivacity,"2303, 21st Cross, K R Road, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Cafe,Cafe,Cafes,Basavanagudi,90,3.8,650.0
+Cafe Ajfan,"Shop 66/1, 4th Block, Near Maiys Hotel, 33rd Cross Road, Jayanagar, Bangalore",Yes,No,Jayanagar,Cafe,"Cafe, Continental, Beverages",Cafes,Basavanagudi,261,4.2,700.0
+Kaulige Millet Corner,"201, 4th Main Road, Next to National Lassi Bar, Chamrajapet, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"Healthy Food, South Indian",Dine-out,Basavanagudi,4,3.3,150.0
+SLV Corner Restaurant,"42, Vani Vilas Road, Ramakrishna Ashrama Circle, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Casual Dining,"South Indian, Chinese, North Indian, Street Food, Rolls, Juices",Delivery,Basavanagudi,364,4.1,550.0
+Rustic Treats,"13-A, 32nd Cross, 7th Block, Jayanagar, Bangalore",No,No,Jayanagar,"Quick Bites, Cafe","Street Food, Cafe",Cafes,Basavanagudi,4,3.3,400.0
+Tree Top,"Temple Tree Hotel, 3, 9th Cross, Wilson Garden, Bangalore",Yes,No,Wilson Garden,Casual Dining,"Continental, Chinese, North Indian, South Indian",Dine-out,Basavanagudi,74,3.8,1000.0
+Utsav Restaurant,"38/A, Mount Joy Road, Hanumanthnagar, Behind BMS College, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"North Indian, Chinese",Dine-out,Basavanagudi,61,3.8,300.0
+VEGeatz,"28/12/2, 3rd Main Road, Mountjoy Extension, Hanumantanagar, Banashankari, Bengaluru",Yes,No,Banashankari,Quick Bites,"South Indian, North Indian",Delivery,Basavanagudi,19,3.4,200.0
+Wahab,"28/29, 9th Main Road, 3rd Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"North Indian, Mughlai, Chinese",Dine-out,Basavanagudi,97,3.7,350.0
+Bangalore Agarwal Bhavan,"36/1, 27th Cross, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Street Food, North Indian, South Indian",Dine-out,Basavanagudi,134,3.9,400.0
+MG's Fine Dining & Bar - Springs Hotel & Spa,"Springs Hotel & Spa, 19, H. Siddaiah Road, Off JC Road, Near, Basavanagudi, Bangalore",No,Yes,Basavanagudi,Casual Dining,"North Indian, Asian, Continental",Buffet,Basavanagudi,21,3.8,800.0
+Matru Sagar,"Shubashree Complex, 50 Feet Road, 1st Stage, Hanumanthanagar, Near Girinagar, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"South Indian, North Indian, Chinese",Dine-out,Basavanagudi,84,3.6,250.0
+Lalbagh Grand,"1, Krishna Rao Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"South Indian, North Indian, Chinese",Delivery,Basavanagudi,22,3.0,250.0
+Fishland Deluxe,"609, 10th A Main, Jayanagar, Bangalore 4th Block",No,No,Jayanagar,Quick Bites,"South Indian, North Indian, Chinese, Kebab",Dine-out,Basavanagudi,9,3.5,500.0
+Roving Feast,"78, 21st Main Road, Near BDA Complex, 2nd Stage, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,"Italian, Continental, Fast Food, Chinese, Momos",Dine-out,Basavanagudi,1047,4.0,450.0
+Mavalli Tiffin Room (MTR),"14, Lalbagh Road, Mavalli, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,South Indian,Dine-out,Basavanagudi,2896,4.5,250.0
+The Chaat Shop,"11/4, Old Market Road, V V Puram, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,Fast Food,Dine-out,Basavanagudi,35,2.5,200.0
+Pathaan Sir,"39/3, 44, Auchan Hypermarket, Bannerghatta Road, Bangalore",Yes,No,Bannerghatta Road,Quick Bites,"Fast Food, Rolls, Momos",Delivery,Basavanagudi,33,3.2,250.0
+eat.fit,"93/A 4th 'B' Cross, Koramangala 5th Block, Bangalore",Yes,No,Koramangala 5th Block,Delivery,"Healthy Food, North Indian, Biryani, Continental, Sandwich, Desserts",Delivery,Basavanagudi,143,4.6,500.0
+Empire Restaurant,"4, Opposite NMKRV College, 21st C Cross Road, 3rd Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,"North Indian, Mughlai, South Indian, Chinese",Delivery,Basavanagudi,4884,4.4,750.0
+Parathe Wali Gali,"#235/1, 12th Cross, Wilson Garden, Bangalore",Yes,No,Wilson Garden,Quick Bites,North Indian,Delivery,Basavanagudi,36,3.9,250.0
+360 Atoms Restaurant And Cafe,"47, 48 &49, 3Rd Floor, 21st Main Road, 2nd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Cafe,"Cafe, Chinese, Continental, Italian",Delivery,Basavanagudi,13,3.1,400.0
+Onesta,"2469, 3rd Floor, 24th Cross, Opposite BDA Complex, 2nd Stage, Banashankari, Bangalore",Yes,Yes,Banashankari,"Casual Dining, Cafe","Pizza, Cafe, Italian",Delivery,Basavanagudi,2556,4.6,600.0
+The Sofraah Kebabs & Kurries - Eden Park Restaurants,"Eden Park Restaurants, 722/2, 36th Cross, 10th 'A' Main, Near Telephone Exchange, 4th Block, Jayanagar, Bangalore",No,Yes,Jayanagar,Casual Dining,"North Indian, Afghani",Delivery,Basavanagudi,176,3.8,1350.0
+Soho Bar & Grill,"31 South Park Hotel, 198, 2nd & 3rd Floor, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",No,No,Basavanagudi,Pub,"North Indian, Chinese, Thai",Drinks & nightlife,Basavanagudi,377,2.7,1100.0
+Bhavani Chats N Juice,"Opposite Mahavir Jain College, 41st Cross, 9th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Beverages, Street Food",Delivery,Basavanagudi,91,3.9,200.0
+Hotel Ruchi Priya,"31/41, Near Post Office, 10th Cross, H Siddaiha Road, Wilson Garden, Bangalore",Yes,No,Wilson Garden,Quick Bites,North Indian,Delivery,Basavanagudi,21,3.6,350.0
+Ramji Chaiwale,"35/24-1 , 11th Main Road, 5th Block Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"Beverages, Fast Food",Delivery,Basavanagudi,19,3.6,250.0
+Redberrys,"30, Surveyor Street, DVG Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Cafe,"Cafe, Italian",Dine-out,Basavanagudi,219,4.0,600.0
+Ice Cream Works,"542, Shravanthi Topaz, 10th East Main Road, 38th Cross Road, 5th Block, Jayanagar, Bengaluru",Yes,No,Jayanagar,Dessert Parlor,"Desserts, Ice Cream",Delivery,Basavanagudi,192,4.1,300.0
+Mockaholic Restro Beer Cafe,"1107, R.V.Dental College Road, 24th Main, 1st Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Bar,"North Indian, Chinese, Pizza, BBQ",Delivery,Basavanagudi,914,3.9,1000.0
+Desi Inn,"No.46/A, 1st floor - front building , lalbagh road, bangalore, 560027",Yes,No,Shanti Nagar,Quick Bites,North Indian,Delivery,Basavanagudi,13,3.5,300.0
+Bread and Circus,"Lal Bagh Main Road, Sampangi Rama Nagar, Near Shanti Nagar, Bangalore",Yes,No,Shanti Nagar,Cafe,"Cafe, Fast Food, Pizza, Burger",Delivery,Basavanagudi,50,3.7,550.0
+Utsav Restaurant,"38/A, Mount Joy Road, Hanumanthnagar, Behind BMS College, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"North Indian, Chinese",Delivery,Basavanagudi,61,3.8,300.0
+Dev Sagar - Food Street,"11/2, Old Market, V V Puram, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,Street Food,Delivery,Basavanagudi,233,4.1,200.0
+Salut,"382/71/4, 11th Main, 3rd Block, Jayanagar, Bangalore",Yes,Yes,Jayanagar,"Pub, Casual Dining","Continental, Finger Food, Seafood, Pizza",Delivery,Basavanagudi,442,4.1,1200.0
+KFC,"1, 80 Feet Road, 6th Block, 3rd Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"Burger, Fast Food",Delivery,Basavanagudi,505,3.8,450.0
+Grow Fit,"954, 2nd Floor, 24th Main, 2nd Phase, Opposite LIC Building, JP Nagar, Bangalore",Yes,No,JP Nagar,"Takeaway, Delivery","Healthy Food, North Indian, Thai",Delivery,Basavanagudi,16,3.6,500.0
+The Sofraah Kebabs & Kurries - Eden Park Restaurants,"Eden Park Restaurants, 722/2, 36th Cross, 10th 'A' Main, Near Telephone Exchange, 4th Block, Jayanagar, Bangalore",No,Yes,Jayanagar,Casual Dining,"North Indian, Afghani",Buffet,Basavanagudi,176,3.8,1350.0
+Bhavani Restaurant,"54, Bull Temple Road, Gavipuram Extn, Gavipuram Extention, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"South Indian, North Indian, Chinese",Dine-out,Basavanagudi,100,3.9,300.0
+Sri Udupi Veg,"335, KR Road, Shastri Nagar, Yediyur, Jayanagar, Bangalore",No,No,Jayanagar,Quick Bites,South Indian,Delivery,Basavanagudi,4,3.3,250.0
+Chulha Chauki Da Dhaba,"13, 7th Cross, 2nd Phase, JP Nagar, Bangalore",Yes,No,JP Nagar,Casual Dining,North Indian,Delivery,Basavanagudi,2353,4.2,800.0
+Adithya,"76, 30th Cross, Tilak Nagar Main Road, Jayanagar, Bangalore",Yes,No,Jayanagar,Quick Bites,"North Indian, Chinese",Delivery,Basavanagudi,9,3.2,400.0
+XO Belgian Waffle,"Subam Tower, Pb/NO 455, 14, Next to UD Roti Ghar, Gandhi Bazaar, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Dessert Parlor,"Desserts, Beverages",Desserts,Basavanagudi,56,3.9,400.0
+New Prashanth Hotel,"22, Gandhibazar, Basavangudi, Bangalore, Basavanagudi, Bangalore",No,No,Basavanagudi,Casual Dining,South Indian,Dine-out,Basavanagudi,66,3.9,400.0
+Sri Sai Cafe,"117, Govindadappa Road, Gandhi Bazar, Basavangudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,South Indian,Delivery,Basavanagudi,10,3.5,200.0
+Brew Meister,"523, 33rd Cross, Jayanagar, Bangalore",Yes,Yes,Jayanagar,"Microbrewery, Casual Dining","North Indian, Continental, Finger Food, American, Asian",Delivery,Basavanagudi,970,4.1,1500.0
+Ganesh Grand,"91/1, Ganesh Mahal Building, Sirsi Road, Chamarajpet, Basavanagudi, Bangalore",No,No,Basavanagudi,Quick Bites,"South Indian, North Indian, Desserts",Dine-out,Basavanagudi,32,3.7,300.0
+Magic Meals,"50/51, 8th F Main, 3rd Block, Jayanagar, Bangalore",Yes,No,Jayanagar,"Quick Bites, Dessert Parlor","Fast Food, Desserts, Beverages",Desserts,Basavanagudi,47,3.7,400.0
+Karavali Family Restaurant,"13, 27th B Cross, 10th Main, Opposite BWSSB Water Tank, Geetha Colony, 4th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,"Seafood, Biryani, South Indian, North Indian, Chinese",Dine-out,Basavanagudi,90,3.5,500.0
+Canton,"28-29, 3rd Block, 9th Main Road, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,"Chinese, Seafood, Biryani",Delivery,Basavanagudi,195,3.6,800.0
+Shringar Sweets & Snacks,"12, Ground Floor, R V Road, Near Southend Metro Station, Basavanagudi, Bangalore",Yes,No,Basavanagudi,"Sweet Shop, Quick Bites","Mithai, South Indian, Street Food, Fast Food",Dine-out,Basavanagudi,11,3.5,200.0
+McDonald's,"15, Bull Temple Road, Next to HSBC Bank, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Quick Bites,"Burger, Fast Food",Dine-out,Basavanagudi,276,3.6,500.0
+Alchemy Coffee Roasters,"51 Ground Floor, 5th Main Road, 36th Cross Road, 5th Block, Jayanagar, Bangalore",No,No,Jayanagar,Cafe,Cafe,Dine-out,Basavanagudi,737,4.2,500.0
+The Airos,"22, 2nd Main Road, National College Road, 7th Block, Jayanagar, Bangalore",Yes,No,Jayanagar,Cafe,"Cafe, Italian, Pizza",Delivery,Basavanagudi,130,4.1,650.0
+Asha Sweets Centre,"26/3, Bugle Rock Road, Gandhi Bazaar, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Dessert Parlor,Fast Food,Desserts,Basavanagudi,27,3.6,250.0
+Timepass Dinner,"37, 5-1, 4th Floor, Bosco Court, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Casual Dining,North Indian,Buffet,Basavanagudi,286,3.8,600.0
+Bella,"382/71/4, 11th Main, 3rd Block, Jayanagar, Bangalore",Yes,Yes,Jayanagar,Casual Dining,"Mangalorean, Seafood, South Indian",Delivery,Basavanagudi,142,3.9,1000.0
+Fishland Deluxe,"609, 10th A Main, Jayanagar, Bangalore 4th Block",No,No,Jayanagar,Quick Bites,"South Indian, North Indian, Chinese, Kebab",Delivery,Basavanagudi,9,3.5,500.0
+Parimala Sweets,"1142, 22nd Cross, 30th Main, Banashankari, Bangalore",No,No,Banashankari,Sweet Shop,"Mithai, Street Food",Delivery,Basavanagudi,14,3.5,200.0
+Patio 805,"805, Ground Floor, 35C Cross, 9th Main, 4th Block, Jayanagar, Bangalore",Yes,Yes,Jayanagar,Casual Dining,"Thai, Vietnamese, Asian, Chinese",Dine-out,Basavanagudi,364,4.1,1200.0
+Asha Sweets Centre,"26/3, Bugle Rock Road, Gandhi Bazaar, Basavanagudi, Bangalore",Yes,No,Basavanagudi,Dessert Parlor,Fast Food,Delivery,Basavanagudi,27,3.6,250.0
+La Casa,"774, 33rd Cross, 10th Main, 4th Block, Jayanagar, Bangalore",No,Yes,Jayanagar,Casual Dining,"Continental, Italian, Chinese, North Indian",Dine-out,Basavanagudi,571,3.6,800.0
+Kidambi's Kitchen,"2465, 3rd Floor, Opposite BDA Complex, 24th Cross, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,South Indian,Dine-out,Basavanagudi,52,3.5,300.0
+Toscano,"359/38,Next to Fabindia, 7th Cross, 1st Block, Jayanagar, Bangalore",Yes,Yes,Jayanagar,Casual Dining,"Italian, Salad",Dine-out,Basavanagudi,1161,4.3,1300.0
+SVKP Daily Fresh,"240, 9th Main, Srinivasanagar, Banashankari, Bangalore",No,No,Banashankari,Quick Bites,South Indian,Dine-out,Basavanagudi,5,3.3,350.0
+Bunt's Biriyani Palace,"487, 80 Feet Road, Bank Colony, 1st Stage, Banashankari, Bangalore",Yes,No,Banashankari,Quick Bites,"North Indian, South Indian, Chinese, Biryani, Seafood",Delivery,Basavanagudi,213,3.0,400.0
+Tree Top,"Temple Tree Hotel, 3, 9th Cross, Wilson Garden, Bangalore",Yes,No,Wilson Garden,Casual Dining,"Continental, Chinese, North Indian, South Indian",Delivery,Basavanagudi,74,3.8,1000.0
+Desi Rasoi,"57, 1st & 2nd Floor, SLV Arcade, 40th Cross, 5th Block, Jayanagar, Bangalore",Yes,Yes,Jayanagar,Casual Dining,"Biryani, North Indian, Chinese, Rajasthani",Delivery,Basavanagudi,361,3.8,600.0
+Mane Holige,"Opposite Ganesha Temple Circle, 4th Block, Jayanagar, Bangalore",No,No,Jayanagar,"Sweet Shop, Quick Bites","Mithai, South Indian",Desserts,Basavanagudi,141,4.3,200.0
+Polamma's Mess,"67/2, Near Christ University, 2nd Cross, C.L. Layout, Adugodi, BTM, Bangalore",Yes,No,BTM,Mess,"North Indian, Chinese, Biryani",Delivery,Basavanagudi,185,4.2,300.0
+City Durbar,"76/1, 30th Cross, Tilak Nagar Main Road, Jayanagar, Bangalore",Yes,No,Jayanagar,Casual Dining,"North Indian, Chinese, Biryani",Delivery,Basavanagudi,71,3.7,450.0
+Rustic Treats,"13-A, 32nd Cross, 7th Block, Jayanagar, Bangalore",No,No,Jayanagar,"Quick Bites, Cafe","Street Food, Cafe",Delivery,Basavanagudi,4,3.3,400.0
+Kabab Mandra,"65, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"North Indian, Chinese, Rolls",Dine-out,Bellandur,243,2.9,300.0
+Gowdaaa Mane Oota,"77/1, Marathalli Outer Ring Road, Bellandur, Bangalore",No,No,Bellandur,Quick Bites,South Indian,Delivery,Bellandur,7,3.4,200.0
+Suryawanshi,"71/1A, 1st Floor, Kaikondrahalli, Sarjapur Main Road, Bengaluru, Karnataka",Yes,Yes,Sarjapur Road,Casual Dining,"Maharashtrian, Seafood",Delivery,Bellandur,125,4.5,700.0
+Red Stone Kitchen,"Above HDFC Bank, Near Indian Oil Petrol Bunk, Kadubeesanahalli Bridge, Kaverappa Layout, Marathahalli, Bangalore",Yes,No,Marathahalli,Casual Dining,"North Indian, Chinese, Seafood",Delivery,Bellandur,91,3.8,750.0
+Phulke Ghar Ke,"18/1, HMR Complex, Near Ganesh Temple, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"North Indian, Chinese",Delivery,Bellandur,532,4.0,300.0
+The Nosh House,"29, 1st Floor, 4th Cross, Kasavanahalli, Off Sarjapur Main Road, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Delivery,"American, Italian, Bakery, Desserts, Sandwich, Beverages, Salad, Rolls",Delivery,Bellandur,220,4.3,600.0
+California Burrito,"Food Court, Building 2D, Embassy Tech Village, Bellandur, Bangalore",No,No,Bellandur,"Food Court, Quick Bites","Mexican, Fast Food",Delivery,Bellandur,23,3.7,400.0
+ReadyBowl,"3rd A Cross, Suresh Reddy Building, Ground Floor, Behind BBMP Office, Bellandur, Bangalore",Yes,No,Bellandur,"Takeaway, Delivery","Andhra, South Indian, North Indian, Biryani",Delivery,Bellandur,76,3.6,300.0
+Blueberry Restaurant,"1614, Opp. Axis Bank, Near Grand City Super Market, Doddakannelli, Devarabisanahalli, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"North Indian, Biryani, South Indian",Delivery,Bellandur,36,3.7,400.0
+Smoor,"RMZ Ecoworld Road, Adarsh Palm Retreat, Bellandur, Bangalore",Yes,No,Bellandur,Dessert Parlor,"Desserts, Beverages",Delivery,Bellandur,44,3.7,900.0
+Murli,"207, Green Glen Layout, Opposite M.K. Ahmed Super Market, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,"North Indian, Chinese, Street Food, Fast Food, Mithai",Delivery,Bellandur,1233,3.9,500.0
+Milkyway Ice Creams,"RMZ Eco World Road, Adarsh Palm Retreat, Bellandur, Bangalore",Yes,No,Bellandur,Food Court,Ice Cream,Delivery,Bellandur,25,3.7,300.0
+Domino's Pizza,"78/5, Sri Gowrikshna Arcade, Behind Central Mall, M.H. Colony, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"Pizza, Fast Food",Delivery,Bellandur,260,3.6,800.0
+Telugu Velugu,"Food Court, Building 8, Pritech Park, Adarsh Palm Retreat, Bellandur, Bangalore",No,No,Bellandur,Food Court,"South Indian, Biryani",Dine-out,Bellandur,6,3.0,300.0
+Punjabi Chulla,"301/A, 3rd B Cross, Kariyappa Building, Behind BBMP Office, Bellandur Post, Bellandur, Bangalore",Yes,No,Bellandur,Delivery,North Indian,Delivery,Bellandur,9,3.2,300.0
+Kya Khaoge,"40, 4th Cross Road, Vinayak Nagar, Konena Agrahara, Murgesh Pallya, Old Airport Road, Bangalore",Yes,No,Old Airport Road,Delivery,"North Indian, Chinese",Delivery,Bellandur,63,3.7,300.0
+The Salad Studio,"Mint Plaza, Palm Avenue, Green Glen Layout, Bellandur, Bangalore",Yes,No,Bellandur,Cafe,"Cafe, Healthy Food, Salad",Cafes,Bellandur,107,4.0,400.0
+Punjabi Dawat,"33/1, 33/2 Bellendur Outer Ring Road, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"North Indian, Chinese",Delivery,Bellandur,248,2.9,400.0
+Pasta Twist Plus,"Mantri Commercio, Kariyammana Agrahara, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,"Fast Food, Continental",Delivery,Bellandur,20,2.6,400.0
+Sarjapur Social,"22, 57/58/1/2, Saket Callipolis, Doddakannhalli, Ambalipura, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,"Bar, Casual Dining","American, North Indian, Chinese, Finger Food",Drinks & nightlife,Bellandur,1193,4.6,1500.0
+Cake Box,"Salarpuria Sattva Aura, Kiosk 6, Foodworks Food Court, Block 11, Marathahalli - Sarjapur Outer Ring Road, Kaverappa Layout, Kadubeesanahalli, Marathahalli, Bangalore",Yes,No,Marathahalli,Bakery,"Bakery, Desserts",Desserts,Bellandur,24,2.9,400.0
+Noodles,"The Bay, Campus 8A, RMZ Ecoworld, Bellandur, Bangalore",No,No,Bellandur,Food Court,Chinese,Dine-out,Bellandur,4,3.4,400.0
+Oven Fresh,"Building 1, RMZ Ecoworld (SEZ), Sarjapur Outer Ring Road, Deverabeesanahalli, Bellandur, Bangalore",No,No,Bellandur,"Bakery, Food Court","Bakery, Fast Food",Desserts,Bellandur,8,3.2,600.0
+Abbabi Chicken,"75/2B, Near Trinity Meadows, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,Fast Food,Dine-out,Bellandur,133,3.8,200.0
+Suryawanshi,"71/1A, 1st Floor, Kaikondrahalli, Sarjapur Main Road, Bengaluru, Karnataka",Yes,Yes,Sarjapur Road,Casual Dining,"Maharashtrian, Seafood",Dine-out,Bellandur,125,4.5,700.0
+Village - The Soul of India,"1st Floor, Total Mall, Sarjapur Road, Bangalore",No,No,Sarjapur Road,Casual Dining,"North Indian, Lucknowi, Gujarati, Maharashtrian, South Indian, Bengali",Buffet,Bellandur,1225,3.9,1100.0
+YumYumDilli,"779/71, First Floor, Near Bata Showroom, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Delivery,North Indian,Delivery,Bellandur,16,3.5,500.0
+Little Italy,"12/3/2, Ambalipura Village, Sarjapur Road, Bangalore",Yes,Yes,Sarjapur Road,Casual Dining,"Italian, Pizza",Delivery,Bellandur,715,4.3,1500.0
+Aapni Rasoi,"73/5, 2nd Cross, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,North Indian,Dine-out,Bellandur,127,3.2,400.0
+Andhra Vilaas,"17/1, Chandra Mansion, Opposite Spring Field Apartments, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"Andhra, North Indian, Biryani",Dine-out,Bellandur,52,3.7,350.0
+Melting Melodies,"56, Lakshman Reddy Building, Devarabisanahalli, Outer Ring Road",Yes,No,Bellandur,"Dessert Parlor, Bakery","Desserts, Bakery",Desserts,Bellandur,11,3.6,300.0
+Mughal Samraj,"Room 24, 11th Cross Dead End, Near Kick-on Grass Football Ground, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,Fast Food,Dine-out,Bellandur,4,3.2,600.0
+The Hidden Home,"82/4B, Next To Wipro Corporate Office, Sarjapur Road, Bangalore",Yes,Yes,Sarjapur Road,Casual Dining,"Asian, Chinese, Continental, North Indian, South Indian",Dine-out,Bellandur,994,4.3,1300.0
+Bahar Cafe,"Ground Floor, Vims Hospital Buidling, Opposite to More, Marathahalli, Bangalore",Yes,Yes,Marathahalli,Casual Dining,"Andhra, Biryani, Chinese, Hyderabadi, North Indian, South Indian",Delivery,Bellandur,903,4.0,750.0
+Mast Biryani - Fresh Indian Kitchen,"3/2, Sarjapur Main Road, Ambalipura, Bangalore",No,No,Bellandur,"Takeaway, Delivery","Biryani, North Indian, Mughlai, Fast Food",Delivery,Bellandur,4,3.2,500.0
+Sri Vasavi Restaurant,"48, Behind Toyota Showroom, Outer Ring Road, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"Chinese, Biryani",Dine-out,Bellandur,30,3.6,250.0
+Bawarchi Khaana,"85/1, Near Narayana Collage, Green Glen Layout",Yes,No,Bellandur,Quick Bites,"North Indian, Chinese",Dine-out,Bellandur,56,3.3,600.0
+Southinn,"65/1A, Sarjapur Main Road, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"South Indian, Fast Food, Chinese, North Indian, Street Food",Dine-out,Bellandur,97,3.2,250.0
+T Square,"3, Norbert Church Road, Behind Bata Showroom, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"Fast Food, Street Food",Dine-out,Bellandur,4,3.2,150.0
+Chaai Resto,"71/1A, Lingappa Reddy Complex, Carmelaram Post, Sarjapur Main Road, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Cafe,"Cafe, Rolls, Fast Food",Dine-out,Bellandur,33,4.1,200.0
+Moriz Restaurant,"89/1, Service Road, Marathahalli, Bangalore",Yes,No,Marathahalli,Casual Dining,"Arabian, North Indian, Seafood, Chinese, Biryani",Delivery,Bellandur,666,2.9,800.0
+Curry Flavours,"603, Second Floor, KPC Layout, Amrutha College Road, Kasavanahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Casual Dining,"Tamil, South Indian, North Indian, Chinese",Delivery,Bellandur,59,3.7,200.0
+Delitz Creamvilla Cafe,"19, First Floor, Bellandur Bus Stop, Outer Ring Road, Opposite Central Mall, Bellandur, Bangalore",Yes,No,Bellandur,"Cafe, Dessert Parlor","Cafe, Desserts, Ice Cream",Cafes,Bellandur,74,4.0,600.0
+The Irish House,"Campus 8/A, International Bay, RMZ Ecoworld, Bellandur, Bangalore",Yes,No,Bellandur,"Casual Dining, Pub","European, American",Pubs and bars,Bellandur,793,4.2,1700.0
+OPUS Club,"26, Varthur Hobli, Near HP Petrol Bunk, Harlur Road, Sarjapur Road, Bangalore",No,Yes,Sarjapur Road,Pub,"Continental, Italian, North Indian, Mexican",Pubs and bars,Bellandur,1496,4.4,1900.0
+Supreme Biryani,Delivery Only,Yes,No,South Bangalore,Delivery,Biryani,Delivery,Bellandur,18,3.3,400.0
+Just Bake,"32, Opposite Fire Station, Beside Total Mall, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Bakery,"Bakery, Desserts",Delivery,Bellandur,65,2.9,400.0
+World In A Bowl,"779/71, First Floor, Near Bata Showroom, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Delivery,"Continental, North Indian, Desserts, Beverages",Delivery,Bellandur,17,3.5,600.0
+Anand Sweets And Savouries,"14, Sarjapur Road, Kaikondhalli Lake, Opposite Fire Station, Sarjapur Road, Bangalore",No,No,Sarjapur Road,"Sweet Shop, Quick Bites","Mithai, Street Food",Desserts,Bellandur,267,4.2,400.0
+Swathi Deluxe,"84/1, Kadubeesanhalli, Panathur Main Road, Marathahalli, Bangalore",Yes,Yes,Marathahalli,Casual Dining,"North Indian, Seafood, Chinese, Biryani",Delivery,Bellandur,218,3.9,750.0
+That Garage Cafe,"167/A, 27th Main Road, Sector 2, HSR, Bangalore",Yes,No,HSR,Cafe,"Cafe, Italian, Continental, European",Delivery,Bellandur,100,3.1,650.0
+Annapurna Foods,"Ground Floor, Ganapa Tower, Outer Ring Road, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,"North Indian, Chinese, Hyderabadi",Delivery,Bellandur,11,3.5,400.0
+OPUS Club,"26, Varthur Hobli, Near HP Petrol Bunk, Harlur Road, Sarjapur Road, Bangalore",No,Yes,Sarjapur Road,Pub,"Continental, Italian, North Indian, Mexican",Drinks & nightlife,Bellandur,1496,4.4,1900.0
+Chef's Gallery,"1st Floor, RMZ Ecospace, Outer Ring Road, Bellandur, Bangalore",No,No,Bellandur,Casual Dining,"Chinese, Italian, North Indian",Delivery,Bellandur,95,3.5,700.0
+Reddy's Paradise,"6/2, Near Wipro Headquaters, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"Fast Food, Chinese, North Indian, Biryani",Delivery,Bellandur,9,3.4,400.0
+Thiruvithamkoor Restaurant,"3/3, Muniyanna Building, Behind Bata Showroom, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"Kerala, Seafood, South Indian, Biryani",Delivery,Bellandur,294,3.3,400.0
+Taste Of India,"8A & 8B, RMZ Ecoworld, Doddakannelli Road, Adarsh Palm Retreat, Bellandur, Bangalore",No,No,Bellandur,Quick Bites,"North Indian, Rolls",Delivery,Bellandur,5,3.1,400.0
+Ambur Dum Biriyani,"55/8 opp to sakra world hospital devarabisnahalli, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,Biryani,Dine-out,Bellandur,12,3.4,200.0
+Laddoos,"Near Ganesh Temple, Bellandur, Bangalore",Yes,No,Bellandur,"Quick Bites, Sweet Shop","North Indian, Street Food, Mithai",Delivery,Bellandur,163,2.9,250.0
+Khan Saheb Grills And Rolls,"61, Next To Purva Sunshine Apartments, Carmalaram Post, Kaikondarahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"Biryani, Fast Food, Rolls",Dine-out,Bellandur,135,3.2,400.0
+Ande Ka Funda,"56, Srinivas Reddy Building, Devarabisanahalli",No,No,Bellandur,Quick Bites,Fast Food,Delivery,Bellandur,21,3.0,150.0
+Basaveshwara Khanavali,"Near MK Retail, Kaikondahalli Main Road, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,South Indian,Dine-out,Bellandur,11,3.6,150.0
+KFC,"The Bay, Building 8A&8B, RMZ Ecoworld, Doddakannelli Road, Adarsh Palm Retreat, Bellandur, Bangalore",No,No,Bellandur,"Quick Bites, Food Court","Burger, Fast Food",Dine-out,Bellandur,20,3.6,450.0
+New Punjabi Dhaba,"7th Cross, Sector 1, HSR, Bangalore",Yes,No,HSR,Quick Bites,"North Indian, Chinese",Delivery,Bellandur,782,3.9,300.0
+Sultan's Biryani,"Bellandur, Bangalore",No,No,Bellandur,Delivery,"Biryani, North Indian",Delivery,Bellandur,5,3.1,700.0
+Andhra Paris,"Shop 3, P.G.K Chambers, Basement, Tulasi Layout, Kasavanahalli, Matha Amrutha College Road, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,Andhra,Delivery,Bellandur,5,3.2,250.0
+Purani Dilli By Anand Sweets,"Level 1, 14, Opposite Fire Station, Adjacent to Kaikondrahalli Lake, Sarjapur Road, Bangalore",No,No,Sarjapur Road,Quick Bites,"North Indian, Continental, Street Food",Dine-out,Bellandur,239,4.1,500.0
+Cauvery Hyderabadi Biriyani,"89/3, Kadubisanahalli, Near CESSNA Business Park, Outer Ring Service Road, Marathahalli, Bangalore",No,No,Marathahalli,Casual Dining,"North Indian, Chinese",Delivery,Bellandur,111,3.8,600.0
+Kerala Panoor Restaurant,"4, Ground Floor, Lakshaman Reddy Building, Marthahalli Ring Road, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"Kerala, Seafood, Biryani, South Indian",Delivery,Bellandur,137,3.5,350.0
+Half & Half Food Box,"97/1, Green Glen Layout, Opposite Road To MK Hypermarket, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"North Indian, Chinese, Biryani",Dine-out,Bellandur,13,3.1,500.0
+Matinee Bar & Kitchen,"19/4 & 27, Ground Floor, Indiqube Alpha, Panathur Junction, Kadubisanahalli, Sarjapur Outer Ring Road, Marathahalli, Bangalore",Yes,Yes,Marathahalli,Casual Dining,"BBQ, Continental, North Indian, Pizza, European",Delivery,Bellandur,340,4.2,1700.0
+Bombay Brasserie,"International Bay, Campus 8/A, RMZ Ecoworld, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,Modern Indian,Dine-out,Bellandur,555,4.3,1800.0
+Daniyal's,"17/1, RJR Building, Bellandur Gate, Ambalipura, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,"Takeaway, Delivery","North Indian, Biryani, Mughlai, Kebab",Delivery,Bellandur,6,3.6,800.0
+Kaka Singh,"RMZ Ecoworld, Back Gate, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,North Indian,Delivery,Bellandur,42,2.6,400.0
+Little Italy,"12/3/2, Ambalipura Village, Sarjapur Road, Bangalore",Yes,Yes,Sarjapur Road,Casual Dining,"Italian, Pizza",Dine-out,Bellandur,715,4.3,1500.0
+Sree Lakshmi Venkateshwara Andhra Mess,"Kadubisanahalli, Outer Ring Road, Sevice Road, Marathahalli, Bangalore",No,No,Marathahalli,Mess,"Andhra, South Indian",Delivery,Bellandur,17,3.5,400.0
+Tipsy Bull - The Bar Exchange,"24-26, 414/80/2, Varthur Hobli, Outer Ring Road",Yes,Yes,Bellandur,"Bar, Casual Dining","North Indian, Chinese, Continental, Mexican",Delivery,Bellandur,2182,4.4,1400.0
+Punjabi Food Point,"225, 2nd Cross, Opposite BBMP Office, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"North Indian, Mughlai, Biryani, Chinese",Dine-out,Bellandur,200,3.3,450.0
+Freshies Gourmet Salads,"First Floor, Opposite Veeranjayanaya Temple, Ambedkar Circle, Adarsh Palm Retreat, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"Salad, Healthy Food",Delivery,Bellandur,31,3.2,350.0
+Glassy,"24-26, 414/80/2, Varthur Hobli, Outer Ring Road",No,Yes,Bellandur,Club,"North Indian, Chinese",Dine-out,Bellandur,707,4.2,1400.0
+Lluvia Bakery,"28, HNR Industrial Area, Kasavanahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,"Takeaway, Delivery",Bakery,Delivery,Bellandur,11,3.4,350.0
+Imperio Cafe,"Hagadur Main Road, Near Imperio Market, Whitefield, Bangalore",No,No,Whitefield,Quick Bites,"Cafe, Fast Food, Pizza, Burger, Beverages",Delivery,Bellandur,22,3.9,200.0
+Tastebuds,"Opposite Rainbow Residency Main Gate, Junnasandra Main Road, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,"Bakery, Quick Bites","Bakery, Fast Food",Delivery,Bellandur,23,3.7,300.0
+Chai Point,"27th Main, Near NIFT, Sector-1, HSR, Bangalore",Yes,No,HSR,"Beverage Shop, Quick Bites","Tea, Beverages, Fast Food",Delivery,Bellandur,316,4.0,250.0
+Punjabi Dawat,"33/1, 33/2 Bellendur Outer Ring Road, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"North Indian, Chinese",Dine-out,Bellandur,248,2.9,400.0
+Cupcake Bliss,"Srinivasa Nilayam, Site 3, Vidya Vikas School Road, Panathur New Extension, Kaverappa Layout, Kadubeesanahalli, Bellandur, Bangalore",Yes,No,Bellandur,Bakery,Bakery,Desserts,Bellandur,8,3.3,250.0
+Happy Endings,"164, Green Glen Layout, Opposite Little Elly, Bellandur, Bangalore",Yes,No,Bellandur,"Bakery, Dessert Parlor","Bakery, Desserts, Italian",Delivery,Bellandur,490,4.3,500.0
+Smoor,"RMZ Ecoworld Road, Adarsh Palm Retreat, Bellandur, Bangalore",Yes,No,Bellandur,Dessert Parlor,"Desserts, Beverages",Desserts,Bellandur,44,3.7,900.0
+Pots N Pans,"Building 2, Outer Ring Road, Bellandur, Bangalore",No,No,Bellandur,Delivery,"North Indian, Chinese, Biryani",Delivery,Bellandur,5,3.3,600.0
+Float,"20\5, Panathur Junction, Outer Ring Road, Kadubeessanahalli, Marathahalli, Bangalore",Yes,Yes,Marathahalli,"Casual Dining, Bar","North Indian, Japanese",Drinks & nightlife,Bellandur,3061,4.4,1500.0
+Up Shawarma,"Hotel Bangaliana, Behind Eco World, Mahadevpura, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,Arabian,Delivery,Bellandur,13,3.4,150.0
+Pasta Twist Plus,"Mantri Commercio, Kariyammana Agrahara, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,"Fast Food, Continental",Dine-out,Bellandur,20,2.6,400.0
+Karachi Bakery,"GRS Towers, Near Big Bazaar, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Bakery,"Bakery, Desserts",Desserts,Bellandur,16,3.7,400.0
+Yummy Punjabi,"33/1-33/2, Outer Ring Road, Next to Maruti Showroom, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"North Indian, Chinese",Dine-out,Bellandur,93,2.9,400.0
+Cakes Wagon,"152, 5th cross, Bellandur, Bangalore",Yes,No,Bellandur,"Dessert Parlor, Bakery","Desserts, Bakery",Delivery,Bellandur,6,3.4,300.0
+Mughal Samraj,"Room 24, 11th Cross Dead End, Near Kick-on Grass Football Ground, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,Fast Food,Delivery,Bellandur,4,3.2,600.0
+Quick Bites Food Junction,"HN Halli Lake Road, Radha Reddy Layout, Doddakannelli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"North Indian, Chinese, Bengali",Delivery,Bellandur,30,3.8,300.0
+Roll junction,"Building 1, RMZ Ecoworld (SEZ)Outer Ring Road, Deverabeesanahalli, Bellandur, Bangalore",No,No,Bellandur,Food Court,"Fast Food, Rolls",Dine-out,Bellandur,8,3.1,150.0
+Tapout Tavern,"13/23, 4th Floor, Haralur Main Road, Ambalipura, Sarjapur Road, Bangalore",Yes,Yes,Sarjapur Road,"Casual Dining, Pub","American, Asian, Continental, North Indian, South Indian, Chinese",Delivery,Bellandur,322,4.1,1200.0
+Delhite Food,"457/32, Opposite Bangalore Central Mall, Outer Ring Road, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,North Indian,Dine-out,Bellandur,6,3.5,300.0
+Lassi Corner,"20/5, Narayanswamy Building, Kadubeesanahalli Bridge, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bangalore",Yes,No,Marathahalli,Quick Bites,"Beverages, Juices, Ice Cream, Fast Food, Sandwich",Delivery,Bellandur,68,3.8,200.0
+Apna Veg Dhaba,"73,Near BBMP Office, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,"North Indian, Chinese",Delivery,Bellandur,35,3.1,400.0
+Cafe Thulp,"35, 1st Cross, Outer Ring Road, Bellandur, Bangalore",Yes,Yes,Bellandur,Cafe,"Cafe, Burger, Italian, Salad",Cafes,Bellandur,341,4.0,1000.0
+The Milkshake Theory,"65/1A, Sarjapur Main Road, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Beverage Shop,"Beverages, Fast Food",Delivery,Bellandur,29,3.7,400.0
+Dad's Cookhouse,"House 3/3, 1st Floor, Kasavanahalli Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"North Indian, Street Food, Chinese, Fast Food",Delivery,Bellandur,44,4.0,300.0
+Cold Smith Ice Creams,"1630/1504/5, Kasavanahalli Main Road, Behind Bata Showroom, Kasavanahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Dessert Parlor,"Ice Cream, Desserts",Desserts,Bellandur,41,3.9,450.0
+Srinathji's,"5, KBR Mall Complex, Ground Floor, More Mega Store, Varthur Hobli, Marathahalli, Bangalore",Yes,Yes,Marathahalli,Casual Dining,"North Indian, Chinese, Continental, Street Food",Delivery,Bellandur,661,3.9,750.0
+Sichuan,"164, Ground Floor, Green Glen Layout, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,"Chinese, Asian, Seafood",Delivery,Bellandur,268,4.1,800.0
+MoMo Cafe - Courtyard by Marriott,"Courtyard by Marriott, Marathahalli-Sarjapur Outer Ring Road, Bellandur, Bangalore",No,Yes,Bellandur,Casual Dining,"Asian, North Indian, South Indian, Momos",Dine-out,Bellandur,271,4.2,2000.0
+Flamin Grill,"32/17, Shop 11&12, Outer Ring Road, Near Rasaganga Hotel, Bellandur, Bangalore",No,No,Bellandur,Casual Dining,"Lebanese, Turkish, BBQ, Burger",Delivery,Bellandur,10,3.5,600.0
+INDULGE by InnerChef,"779/71, First Floor, Near Bata Showroom, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Bakery,"Desserts, Bakery",Desserts,Bellandur,22,3.6,400.0
+Basaveshwara Khanavali,"Near MK Retail, Kaikondahalli Main Road, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,South Indian,Delivery,Bellandur,11,3.6,150.0
+Baker's Home,"Shop No 1, 15th Cross, DR BR Ambedkar Circle, Devarabishanahalli, Bellandur, Bangalore",Yes,No,Bellandur,"Bakery, Dessert Parlor","Bakery, Desserts",Delivery,Bellandur,175,4.0,300.0
+Rolls On Wheels,"18/2 A, Spencer's Mall Compound, Sarjapur Road, Bangalore",No,No,Sarjapur Road,Quick Bites,"Fast Food, Rolls, Momos",Dine-out,Bellandur,132,3.5,300.0
+Cafe Jezve,"Embassy Tech Village, Outer Ring Road, Deverabesanahalli, Bellandur, Bangalore",No,No,Bellandur,Cafe,Cafe,Dine-out,Bellandur,23,4.0,500.0
+Homemade Delite,"HSR Layout, Sector 1, HSR, Bangalore",No,No,HSR,Takeaway,"Bakery, Desserts",Desserts,Bellandur,21,3.6,200.0
+Reddy's Restaurant,"94, Narayanaswamy Building, Panathur Railway Station Road, Behind Chroma, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"Andhra, Biryani, South Indian, Chinese",Delivery,Bellandur,6,3.4,500.0
+Drunken Monkey,"Kiosk 3, Campus 4A-B Food Court, RMZ Ecoworld, Outer Ring Road, Bellandur",Yes,No,Bellandur,Kiosk,"Beverages, Fast Food",Dine-out,Bellandur,11,3.4,400.0
+Karachi Bakery,"GRS Towers, Near Big Bazaar, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Bakery,"Bakery, Desserts",Delivery,Bellandur,16,3.7,400.0
+Homifoo,"1105, 10th cross, 21st main, HSR, Sector 1",Yes,No,HSR,Quick Bites,North Indian,Delivery,Bellandur,11,3.5,300.0
+Rolls Kitchen,"12, Kaverappa Layout, Kadubeesanahalli",Yes,No,Marathahalli,Quick Bites,"Fast Food, Rolls",Dine-out,Bellandur,7,3.2,250.0
+Ambur Star Biryani,"7, Raghav Reddy Building, Opposite Wipro Gate, Sarjapur Road, Bangalore",No,No,Sarjapur Road,Quick Bites,Biryani,Dine-out,Bellandur,22,3.5,200.0
+Udupi Nalapaka,"55/2, Devarabisanahalli Ring Road, Off Sakra World Hospital, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"South Indian, North Indian, Chinese",Dine-out,Bellandur,37,3.7,400.0
+California Burrito,"Food Court, Building 2D, Embassy Tech Village, Bellandur, Bangalore",No,No,Bellandur,"Food Court, Quick Bites","Mexican, Fast Food",Dine-out,Bellandur,23,3.7,400.0
+Yummy Punjabi Delight,"5th Floor, Central Mall, Bellandur, Bangalore",No,No,Bellandur,Quick Bites,North Indian,Dine-out,Bellandur,6,3.2,500.0
+The Paratha Company,"1554, Ground Floor, 19th Main, Sector 1, HSR, Bangalore",Yes,No,HSR,Delivery,North Indian,Delivery,Bellandur,166,4.3,400.0
+Kava - Fairfield by Marriott,"Fairfield by Marriott, Marathahalli - Sarjapur Outer Ring Road, Bellandur, Bangalore",No,Yes,Bellandur,Casual Dining,"North Indian, South Indian, Continental",Dine-out,Bellandur,284,3.9,1500.0
+The Rasaganga,"35, Outer Ring Road",Yes,No,Bellandur,Casual Dining,"South Indian, North Indian, Chinese, Street Food",Dine-out,Bellandur,404,3.7,500.0
+Lassi Corner,"Kariyammana Agrahara, kadubesenahalli, Bellandur, Bangalore",No,No,Bellandur,Beverage Shop,"Beverages, Desserts",Delivery,Bellandur,9,3.2,300.0
+Punjab Zone,"33/2, Outer Ring Road, Next to Maruti Showroom, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,North Indian,Dine-out,Bellandur,120,2.9,400.0
+BG's Poolside Bar & Grill,"Courtyard & Fairfield by Marriott, Outer Ring Road, Bellandur, Bangalore",No,Yes,Bellandur,"Casual Dining, Bar","Mediterranean, Italian, Mexican",Drinks & nightlife,Bellandur,106,4.1,1600.0
+Manchow,"2nd Floor, Sai Durga Enclave, 833/1, Outer Ring Road, Bellandur, Bangalore",Yes,Yes,Bellandur,Casual Dining,"Chinese, Asian, Momos",Dine-out,Bellandur,157,3.8,600.0
+Kaka Singh,"RMZ Ecoworld, Back Gate, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,North Indian,Dine-out,Bellandur,42,2.6,400.0
+Nanda's,"1558, 19th Main, Ring Road, Near Indian Oil Petrol Bunk, Sector 1, HSR, Bangalore",Yes,No,HSR,Casual Dining,"North Indian, Chinese, Andhra",Delivery,Bellandur,361,2.9,450.0
+Eatwell Restaurant,"1st Floor, Opposite to Ocean Mounarda Apartment, Kasavanahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"Biryani, Chinese, North Indian",Dine-out,Bellandur,8,3.0,400.0
+Take EAT Easy,"Sharanya Arcade, Behind Bata Showroom, 1st cross KPTC Layout, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,"Takeaway, Delivery",North Indian,Delivery,Bellandur,20,3.6,200.0
+McDonald's,"5/78/7, Ground Floor, Bangalore Central, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"Burger, Fast Food",Delivery,Bellandur,258,3.2,500.0
+DinePost9,"Near Madurai Idly, SGR Dental College Road, CKB Layout, Chandra Layout, Marathahalli, Bengalore",Yes,No,Marathahalli,Delivery,"North Indian, South Indian, Chinese, Continental",Delivery,Bellandur,798,3.8,450.0
+Eating Love,"1630/1504/05, Ground Floor, Kasavanhalli Hobli, Behind Bata Show Room, Off Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Cafe,"Cafe, Italian, Pizza",Dine-out,Bellandur,149,4.3,800.0
+Eat N Drinks,"Near Vakil Gardenia Apartments, Bellandur Main Road, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"Kerala, Beverages",Delivery,Bellandur,7,3.4,150.0
+Le Gateau - The Cake Shop,"33/4, Narayanamma Garden, 8th Cross, Konen Agrahara, Murugeshpalya, Old Airport Road, Bangalore",Yes,No,Old Airport Road,Delivery,"Desserts, Bakery",Delivery,Bellandur,536,4.4,600.0
+The Kebab House,"74/2, Outer Ring Road, Bellandur Junction, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"Kebab, Biryani",Delivery,Bellandur,49,4.3,250.0
+InnerChef,"779/71, First Floor, Near Bata Showroom, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Delivery,"North Indian, Continental",Delivery,Bellandur,231,3.9,500.0
+Sarjapur Social,"22, 57/58/1/2, Saket Callipolis, Doddakannhalli, Ambalipura, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,"Bar, Casual Dining","American, North Indian, Chinese, Finger Food",Dine-out,Bellandur,1193,4.6,1500.0
+Mighty Paws,"533, 2nd Main, KPCL Layout, Kasavanahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Cafe,Cafe,Delivery,Bellandur,136,4.0,500.0
+Baskin Robbins,"Ground Floor, Bangalore Central 3, Bellandur, Bangalore",Yes,No,Bellandur,Dessert Parlor,"Ice Cream, Desserts",Delivery,Bellandur,48,3.7,250.0
+Soul Treat,"28/29, Maruthi Nagar, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Bakery,"Bakery, Desserts, Healthy Food",Desserts,Bellandur,269,4.3,750.0
+Pabrai's Fresh & Naturelle Icecreams,"No 964, 965 M R Complex, 27th Main, HSR Layout, Sector 1, Bangalore",Yes,No,HSR,Dessert Parlor,"Ice Cream, Desserts",Delivery,Bellandur,324,4.3,180.0
+eat.fit,"39/12, 5th Main Road, Iblur Village, Outer Ring Road, Behind Enzo Hotel, Bellandur, Bangalore",Yes,No,Bellandur,Delivery,"Healthy Food, North Indian, Biryani, Continental, Sandwich, Desserts",Desserts,Bellandur,632,4.4,500.0
+Rayalaseema Chefs,"88, 1st Floor, VIMS Hospital Building, Outer Ring Road, Marathahalli, Bangalore",Yes,Yes,Marathahalli,Casual Dining,"North Indian, Biryani, Andhra, Chinese",Delivery,Bellandur,225,3.9,800.0
+Dosa Time,"51, Kaikondrahalli Village, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Takeaway,South Indian,Delivery,Bellandur,106,3.8,200.0
+Foodies Hub,"Central Jail Road, Kasavanahalli, Near Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"North Indian, South Indian, Seafood",Delivery,Bellandur,8,3.1,500.0
+Flavours - Octave Hotel & Spa,"Octave Hotel & Spa, 14, Kailkondanahalli Village, Next to Total Mall, Sarjapur Road, Bangalore",No,No,Sarjapur Road,Casual Dining,"North Indian, Chinese",Dine-out,Bellandur,197,3.0,700.0
+Al Khwaja,"56, Srinivas Reddy Building, Devarabisanahalli",No,No,Bellandur,Casual Dining,"North Indian, Chinese",Dine-out,Bellandur,13,3.0,400.0
+Chai World,"65/2, Next To Peters School, Beside I-Gate Optics, Sarjapura Main Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"Tea, Beverages, Sandwich, Fast Food",Delivery,Bellandur,18,3.5,300.0
+Flavours - Octave Hotel & Spa,"Octave Hotel & Spa, 14, Kailkondanahalli Village, Next to Total Mall, Sarjapur Road, Bangalore",No,No,Sarjapur Road,Casual Dining,"North Indian, Chinese",Delivery,Bellandur,197,3.0,700.0
+AKSHAYA BIRYANI,"15/38, Opposite Ocian Manoda Apartment, Sarjapur Road, Kasavanhalli, Bangalore",Yes,No,Sarjapur Road,Quick Bites,"Biryani, North Indian",Dine-out,Bellandur,20,3.6,300.0
+Frozen Bottle,"65/1A, Opposite to Bata Show Room, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Beverage Shop,"Beverages, Desserts, Ice Cream",Desserts,Bellandur,13,3.6,400.0
+Hokey Pokey Ice Creams,"5, Rasa Jeev, Ground Floor, Sree Complex, Kaikondanhalli, Sarjapur Road, Bangalore",No,No,Sarjapur Road,Dessert Parlor,"Ice Cream, Desserts",Desserts,Bellandur,75,3.9,350.0
+The Belgian Waffle Co.,"2617, 27th Main, Sector 1, Opposite CPWD Complex, HSR, Bangalore",Yes,No,HSR,Dessert Parlor,"Desserts, Beverages",Delivery,Bellandur,129,4.1,350.0
+Basmati Restaurant,"Opposite Passport Office, Near Sakra Hospital, Bellandur, Bangalore",Yes,No,Bellandur,Casual Dining,"Biryani, Andhra, North Indian, Chinese",Delivery,Bellandur,419,3.8,900.0
+Mont Blanc Cafe,"SJR Complex, Beside Gear International School, Behind Adarsh Palm Retreat, Doddakannelli, Bellandur, Bangalore",Yes,No,Bellandur,Cafe,"Cafe, Bakery, Italian",Dine-out,Bellandur,35,3.8,650.0
+Punjabi Times,"24-26, 414/80/2, Bellandur Village, Varthur Hobli, Outer Ring Road, Bellandur, Bangalore",Yes,Yes,Bellandur,"Casual Dining, Bar",North Indian,Delivery,Bellandur,1691,4.1,1100.0
+Nandana Mess,"Srinivas Reddy Building, 2nd Main Road, Outer Ring Road, Bellandur, Bangalore",No,No,Bellandur,Mess,"South Indian, Chinese",Dine-out,Bellandur,7,3.4,350.0
+Rusbury Fresh Sweets And Savouries,"2606, The Ambience, 27th Main Road, 16th cross, HSR Layout",Yes,No,HSR,Sweet Shop,"Mithai, Street Food",Delivery,Bellandur,65,4.0,200.0
+Lassi Cafe,"5/3D, Opposite BRS Global School, Kasvanahalli, Sarjapur Road, Bangalore",No,No,Sarjapur Road,Beverage Shop,"Beverages, Street Food, North Indian",Desserts,Bellandur,23,3.6,300.0
+Byg Brewski Brewing Company,"Behind MK Retail, Sarjapur Road, Bangalore",Yes,Yes,Sarjapur Road,Microbrewery,"Continental, North Indian, Italian, South Indian, Finger Food",Delivery,Bellandur,16345,4.9,1600.0
+Samosa Corner,"41, Balaji Residency, Opposite Sobha Marvella, Green Glen Layout, Bellandur, Bangalore",No,No,Bellandur,Quick Bites,Street Food,Dine-out,Bellandur,32,3.7,100.0
+Pita Pit,"8A & 8B Building, RMZ Ecoworld, Food Court, Marathahalli Outer Ring Road, Deverabeesanahalli, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"Healthy Food, Salad",Delivery,Bellandur,7,3.3,600.0
+Pet Full @ 99,"5/1, SLN Building, Gear School Road, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Quick Bites,North Indian,Delivery,Bellandur,15,3.1,200.0
+Warm Oven,"3, Srinivasa Nilayam, Vidya Vikas School Road, Panathur New Extension, Kaverappa Layout, Marathahalli, Bangalore",Yes,No,Marathahalli,Bakery,"Bakery, Desserts",Delivery,Bellandur,65,3.8,500.0
+Chicken Shawarma Hub,"197/717/86/1, Green Glen Layout, Behind HDFC Bannk, Bellandur, Bangalore",No,No,Bellandur,"Takeaway, Delivery","Fast Food, Arabian, Beverages",Delivery,Bellandur,14,3.1,250.0
+Devi's Cakes N Bakes,"6021, Sobha Dahlia, Bellandur, Bangalore",No,No,Bellandur,Bakery,"Bakery, Desserts",Desserts,Bellandur,31,3.6,200.0
+Delhi Restaurant,"Kadubeesanhalli Circle, Outer Ring Road, near Cisco Cesna Tech Park , Marathahalli, Bangalore",Yes,No,Marathahalli,Quick Bites,"North Indian, Mughlai, Chinese",Dine-out,Bellandur,54,3.8,400.0
+Flamin Grill,"32/17, Shop 11&12, Outer Ring Road, Near Rasaganga Hotel, Bellandur, Bangalore",No,No,Bellandur,Casual Dining,"Lebanese, Turkish, BBQ, Burger",Dine-out,Bellandur,10,3.5,600.0
+Foreign CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,"779/71, First Floor, Near Bata Showroom, Kaikondrahalli, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Delivery,Continental,Delivery,Bellandur,43,3.5,500.0
+Papacream,"49, First Floor, Shubh Enclave, Haralur Main Road, Off Sarjapur Road, Bangalore",No,No,Sarjapur Road,Dessert Parlor,"Desserts, Ice Cream",Desserts,Bellandur,28,3.8,350.0
+Muscat Restaurant,"Kaverappa Layout, Panathur Main Road, Kadubisanahalli, Marathahalli, Bangalore",Yes,No,Marathahalli,Quick Bites,"North Indian, Chinese",Delivery,Bellandur,47,3.0,400.0
+Maa Vooru,"RMZ Eco World, Bellandur, Bangalore",No,No,Bellandur,Quick Bites,Fast Food,Dine-out,Bellandur,4,3.3,300.0
+Shree Khana Khazana,"163, Shreyas Arcade, Green Glen Layout, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"North Indian, Chinese",Dine-out,Bellandur,166,4.2,450.0
+Light House Cafe,"10/3, Devarabeesanahali, Outer Ring Road, Opposite Embassy Tech Park, Marathahalli, Bangalore",Yes,No,Marathahalli,Cafe,"Cafe, Beverages, Continental, North Indian, Chinese",Cafes,Bellandur,94,3.7,700.0
+Shanghai Bistro,"15/A, 1st Floor, Opposite Oceanus Monarda Apartments, Amrita College Road, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,Casual Dining,"Chinese, Thai, Vietnamese",Dine-out,Bellandur,248,4.1,800.0
+Float,"20\5, Panathur Junction, Outer Ring Road, Kadubeessanahalli, Marathahalli, Bangalore",Yes,Yes,Marathahalli,"Casual Dining, Bar","North Indian, Japanese",Pubs and bars,Bellandur,3061,4.4,1500.0
+Domino's Pizza,"102, 1st Floor, The Bay, RMZ Ecospace, Varthur Hobli, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"Pizza, Fast Food",Dine-out,Bellandur,66,3.2,800.0
+Fusion Tadka,"163, Shop 2, Shreyas Arcade, Opposite Appolo Pharmacy, Greenglen Layout, Bellandur, Bangalore",Yes,No,Bellandur,Delivery,"North Indian, Chinese",Delivery,Bellandur,34,3.7,450.0
+B'Town Cafe & Restaurant,"Ground Floor, Fidelis Food Court, Cessena Tech Park, Kadubeesanahalli, Marathahalli, Bangalore",No,No,Marathahalli,Food Court,"Arabian, Continental",Dine-out,Bellandur,8,3.5,350.0
+Udupi Aatithya,"74/8, Ground Floor, GMR Complex, Outer Ring Road, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"South Indian, North Indian, Chinese",Dine-out,Bellandur,77,4.0,300.0
+Mumbai Xpress,"4th Cross, Bellandur, Annaiah Reddy Layout, Opposite Mahaganapathi Temple, Bellandur, Bangalore",Yes,No,Bellandur,Quick Bites,"Fast Food, Street Food",Delivery,Bellandur,89,2.9,350.0
+Sarjapur Social,"22, 57/58/1/2, Saket Callipolis, Doddakannhalli, Ambalipura, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,"Bar, Casual Dining","American, North Indian, Chinese, Finger Food",Pubs and bars,Bellandur,1193,4.6,1500.0
+Shake It Off,"Ground Floor, 42 Green Glen Layout, Sarjapur - Marathalli Ring Road, Bellandur, Bangalore",Yes,No,Bellandur,Beverage Shop,"Beverages, Fast Food",Delivery,Bellandur,60,4.0,600.0
+Health Gourmet,"1378 1/1, Junnasandra, Opposite Wipro Corporate Office, Sarjapur Road, Bangalore",Yes,No,Sarjapur Road,"Takeaway, Delivery","Continental, American, Mediterranean, Healthy Food",Delivery,Bellandur,117,3.8,600.0
+Cafe Jezve,"Embassy Tech Village, Outer Ring Road, Deverabesanahalli, Bellandur, Bangalore",No,No,Bellandur,Cafe,Cafe,Cafes,Bellandur,23,4.0,500.0
+Mont Blanc Cafe,"SJR Complex, Beside Gear International School, Behind Adarsh Palm Retreat, Doddakannelli, Bellandur, Bangalore",Yes,No,Bellandur,Cafe,"Cafe, Bakery, Italian",Cafes,Bellandur,35,3.8,650.0
+JW Kitchen - JW Marriott Bengaluru,"JW Marriott, 24/1, Vittal Mallya Road, Lavelle Road, Bangalore",No,Yes,Lavelle Road,Fine Dining,"North Indian, Continental, Italian",Buffet,Brigade Road,2111,4.4,2200.0
+Mainland China,"First Floor, 14, Church Street, Bangalore",Yes,Yes,Church Street,"Casual Dining, Bar","Chinese, Momos",Buffet,Brigade Road,1394,4.5,1700.0
+The Tao Terraces,"5th Floor, 1 MG Mall, Opposite Vivanta by Taj, MG Road, Bangalore",Yes,Yes,MG Road,Casual Dining,"Thai, Japanese, Korean, Burmese, Chinese",Buffet,Brigade Road,1909,4.0,2100.0
+The Spice Bazaar,"40/2, Lavelle Road, Bangalore",No,Yes,Lavelle Road,"Casual Dining, Bar","North Indian, Mughlai",Buffet,Brigade Road,347,4.2,1000.0
+Ebony,"Barton Center, 84, 13th Floor, MG Road, Bangalore",Yes,Yes,MG Road,Casual Dining,"North Indian, South Indian",Buffet,Brigade Road,3126,4.3,1500.0
