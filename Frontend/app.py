@@ -4,11 +4,25 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
-BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
+# ============================
+# Configuración del backend
+# ============================
+# Prioriza el valor en st.secrets (para Streamlit Cloud)
+# Si no existe, usa la variable de entorno (para desarrollo local)
+# Y si tampoco existe, usa el localhost como fallback
+if "BACKEND_URL" in st.secrets:
+    BACKEND_URL = st.secrets["BACKEND_URL"]
+else:
+    BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
 
+BACKEND_URL = BACKEND_URL.rstrip("/")  # limpia posibles / al final
+
+# ============================
+# Configuración de la interfaz
+# ============================
 st.set_page_config(page_title="Zomato — Mercado Gastronómico", layout="wide")
 st.title("🍽️ Zomato — Mercado Gastronómico")
-st.caption(f"Backend: {BACKEND_URL}")
+st.caption(f"🔗 Backend conectado a: {BACKEND_URL}")
 
 # ------------ Helpers ------------
 def build_params(locations, rest_types, cuisines, online_order, book_table, rate_range, cost_range, bins=None):
