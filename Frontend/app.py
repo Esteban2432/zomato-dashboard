@@ -86,6 +86,23 @@ tabs = st.tabs([
     "💬 Opinión y Popularidad"
 ])
 
+with st.sidebar:
+    st.markdown("### 📄 Documentación")
+
+    manual_path = os.path.join(os.path.dirname(__file__), "Manual_Usuario.pdf")
+
+    try:
+        with open(manual_path, "rb") as file:
+            st.download_button(
+                label="Descargar Manual de Usuario",
+                data=file,
+                file_name="Manual_Usuario_Zomato.pdf",
+                mime="application/pdf"
+            )
+    except FileNotFoundError:
+        st.warning("No se encontró el archivo del Manual de Usuario en el servidor.")
+
+
 # ------------ Vista 1 ------------
 with tabs[0]:
     st.subheader("📊 Visión General")
